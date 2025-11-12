@@ -40,51 +40,51 @@ parallel = off
 | [binkar10_1](binkar10_1.mps.sol)                                  |  6.7422000240e+03 | Yes      | [miplib](https://miplib.zib.de/instance_details_binkar10_1.html) |
 | [blp-ar98](blp-ar98.mps.sol)                                      |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_blp-ar98.html) |
 | [blp-ic98](blp-ic98.mps.sol)                                      |  4.5351997952e+03 | No       | [miplib](https://miplib.zib.de/instance_details_blp-ic98.html) |
-| [bnatt400](bnatt400.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_bnatt400.html) |
-| [bnatt500](bnatt500.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_bnatt500.html) |
-| [bppc4-08](bppc4-08.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_bppc4-08.html) |
-| [brazil3](brazil3.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_brazil3.html) |
-| [buildingenergy](buildingenergy.mps.sol)                          |   |  | [miplib](https://miplib.zib.de/instance_details_buildingenergy.html) |
-| [cbs-cta](cbs-cta.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_cbs-cta.html) |
-| [chromaticindex1024-7](chromaticindex1024-7.mps.sol)              |   |  | [miplib](https://miplib.zib.de/instance_details_chromaticindex1024-7.html) |
-| [chromaticindex512-7](chromaticindex512-7.mps.sol)                |   |  | [miplib](https://miplib.zib.de/instance_details_chromaticindex512-7.html) |
-| [cmflsp50-24-8-8](cmflsp50-24-8-8.mps.sol)                        |   |  | [miplib](https://miplib.zib.de/instance_details_cmflsp50-24-8-8.html) |
-| [CMS750_4](CMS750_4.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_CMS750_4.html) |
-| [co-100](co-100.mps.sol)                                          |   |  | [miplib](https://miplib.zib.de/instance_details_co-100.html) |
-| [cod105](cod105.mps.sol)                                          |   |  | [miplib](https://miplib.zib.de/instance_details_cod105.html) |
-| [comp07-2idx](comp07-2idx.mps.sol)                                |   |  | [miplib](https://miplib.zib.de/instance_details_comp07-2idx.html) |
-| [comp21-2idx](comp21-2idx.mps.sol)                                |   |  | [miplib](https://miplib.zib.de/instance_details_comp21-2idx.html) |
-| [cost266-UUE](cost266-UUE.mps.sol)                                |   |  | [miplib](https://miplib.zib.de/instance_details_cost266-UUE.html) |
-| [cryptanalysiskb128n5obj14](cryptanalysiskb128n5obj14.mps.sol)    |   |  | [miplib](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj14.html) |
-| [cryptanalysiskb128n5obj16](cryptanalysiskb128n5obj16.mps.sol)    |   |  | [miplib](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj16.html) |
-| [csched007](csched007.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_csched007.html) |
-| [csched008](csched008.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_csched008.html) |
-| [cvs16r128-89](cvs16r128-89.mps.sol)                              |   |  | [miplib](https://miplib.zib.de/instance_details_cvs16r128-89.html) |
-| [dano3_3](dano3_3.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_dano3_3.html) |
-| [dano3_5](dano3_5.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_dano3_5.html) |
-| [decomp2](decomp2.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_decomp2.html) |
-| [drayage-100-23](drayage-100-23.mps.sol)                          |   |  | [miplib](https://miplib.zib.de/instance_details_drayage-100-23.html) |
-| [drayage-25-23](drayage-25-23.mps.sol)                            |   |  | [miplib](https://miplib.zib.de/instance_details_drayage-25-23.html) |
-| [dws008-01](dws008-01.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_dws008-01.html) |
-| [eil33-2](eil33-2.mps.sol)                                        |   |  | [miplib](https://miplib.zib.de/instance_details_eil33-2.html) |
-| [eilA101-2](eilA101-2.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_eilA101-2.html) |
-| [enlight_hard](enlight_hard.mps.sol)                              |   |  | [miplib](https://miplib.zib.de/instance_details_enlight_hard.html) |
-| [ex10](ex10.mps.sol)                                              |   |  | [miplib](https://miplib.zib.de/instance_details_ex10.html) |
-| [ex9](ex9.mps.sol)                                                |   |  | [miplib](https://miplib.zib.de/instance_details_ex9.html) |
-| [exp-1-500-5-5](exp-1-500-5-5.mps.sol)                            |   |  | [miplib](https://miplib.zib.de/instance_details_exp-1-500-5-5.html) |
-| [fast0507](fast0507.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_fast0507.html) |
-| [fastxgemm-n2r6s0t2](fastxgemm-n2r6s0t2.mps.sol)                  |   |  | [miplib](https://miplib.zib.de/instance_details_fastxgemm-n2r6s0t2.html) |
-| [fhnw-binpack4-4](fhnw-binpack4-4.mps.sol)                        |   |  | [miplib](https://miplib.zib.de/instance_details_fhnw-binpack4-4.html) |
-| [fhnw-binpack4-48](fhnw-binpack4-48.mps.sol)                      |   |  | [miplib](https://miplib.zib.de/instance_details_fhnw-binpack4-48.html) |
-| [fiball](fiball.mps.sol)                                          |   |  | [miplib](https://miplib.zib.de/instance_details_fiball.html) |
-| [gen-ip002](gen-ip002.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_gen-ip002.html) |
-| [gen-ip054](gen-ip054.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_gen-ip054.html) |
-| [germanrr](germanrr.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_germanrr.html) |
-| [gfd-schedulen180f7d50m30k18](gfd-schedulen180f7d50m30k18.mps.sol)|   |  | [miplib](https://miplib.zib.de/instance_details_gfd-schedulen180f7d50m30k18.html) |
-| [glass-sc](glass-sc.mps.sol)                                      |   |  | [miplib](https://miplib.zib.de/instance_details_glass-sc.html) |
-| [glass4](glass4.mps.sol)                                          |   |  | [miplib](https://miplib.zib.de/instance_details_glass4.html) |
-| [gmu-35-40](gmu-35-40.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_gmu-35-40.html) |
-| [gmu-35-50](gmu-35-50.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_gmu-35-50.html) |
+| [bnatt400](bnatt400.mps.sol)                                      |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_bnatt400.html) |
+| [bnatt500](bnatt500.mps.sol)                                      |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_bnatt500.html) |
+| [bppc4-08](bppc4-08.mps.sol)                                      |  5.3000000000e+01 | No       | [miplib](https://miplib.zib.de/instance_details_bppc4-08.html) |
+| [brazil3](brazil3.mps.sol)                                        |  1.3000000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_brazil3.html) |
+| [buildingenergy](buildingenergy.mps.sol)                          |  3.3975380958e+04 | No       | [miplib](https://miplib.zib.de/instance_details_buildingenergy.html) |
+| [cbs-cta](cbs-cta.mps.sol)                                        |  0.0000000000e+00 | Yes      | [miplib](https://miplib.zib.de/instance_details_cbs-cta.html) |
+| [chromaticindex1024-7](chromaticindex1024-7.mps.sol)              |  4.0000000000e+00 | No       | [miplib](https://miplib.zib.de/instance_details_chromaticindex1024-7.html) |
+| [chromaticindex512-7](chromaticindex512-7.mps.sol)                |  4.0000000000e+00 | No       | [miplib](https://miplib.zib.de/instance_details_chromaticindex512-7.html) |
+| [cmflsp50-24-8-8](cmflsp50-24-8-8.mps.sol)                        |  5.7654167323e+07 | No       | [miplib](https://miplib.zib.de/instance_details_cmflsp50-24-8-8.html) |
+| [CMS750_4](CMS750_4.mps.sol)                                      |  2.6900000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_CMS750_4.html) |
+| [co-100](co-100.mps.sol)                                          |  3.8793083700e+06 | No       | [miplib](https://miplib.zib.de/instance_details_co-100.html) |
+| [cod105](cod105.mps.sol)                                          | -1.2000000000e+01 | Yes      | [miplib](https://miplib.zib.de/instance_details_cod105.html) |
+| [comp07-2idx](comp07-2idx.mps.sol)                                |  6.4000000000e+01 | No       | [miplib](https://miplib.zib.de/instance_details_comp07-2idx.html) |
+| [comp21-2idx](comp21-2idx.mps.sol)                                |  2.0700000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_comp21-2idx.html) |
+| [cost266-UUE](cost266-UUE.mps.sol)                                |  2.6515101060e+07 | No       | [miplib](https://miplib.zib.de/instance_details_cost266-UUE.html) |
+| [cryptanalysiskb128n5obj14](cryptanalysiskb128n5obj14.mps.sol)    |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj14.html) |
+| [cryptanalysiskb128n5obj16](cryptanalysiskb128n5obj16.mps.sol)    |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj16.html) |
+| [csched007](csched007.mps.sol)                                    |  3.6300000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_csched007.html) |
+| [csched008](csched008.mps.sol)                                    |  1.7300000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_csched008.html) |
+| [cvs16r128-89](cvs16r128-89.mps.sol)                              | -9.6000000000e+01 | No       | [miplib](https://miplib.zib.de/instance_details_cvs16r128-89.html) |
+| [dano3_3](dano3_3.mps.sol)                                        |  5.7634463303e+02 | Yes      | [miplib](https://miplib.zib.de/instance_details_dano3_3.html) |
+| [dano3_5](dano3_5.mps.sol)                                        |  5.7692491596e+02 | No       | [miplib](https://miplib.zib.de/instance_details_dano3_5.html) |
+| [decomp2](decomp2.mps.sol)                                        | -1.6000000000e+02 | Yes      | [miplib](https://miplib.zib.de/instance_details_decomp2.html) |
+| [drayage-100-23](drayage-100-23.mps.sol)                          |  1.0333387407e+05 | Yes      | [miplib](https://miplib.zib.de/instance_details_drayage-100-23.html) |
+| [drayage-25-23](drayage-25-23.mps.sol)                            |  1.0128264702e+05 | Yes      | [miplib](https://miplib.zib.de/instance_details_drayage-25-23.html) |
+| [dws008-01](dws008-01.mps.sol)                                    |  3.9618281338e+04 | No       | [miplib](https://miplib.zib.de/instance_details_dws008-01.html) |
+| [eil33-2](eil33-2.mps.sol)                                        |  9.3400791600e+02 | Yes      | [miplib](https://miplib.zib.de/instance_details_eil33-2.html) |
+| [eilA101-2](eilA101-2.mps.sol)                                    |  2.9116006220e+03 | No       | [miplib](https://miplib.zib.de/instance_details_eilA101-2.html) |
+| [enlight_hard](enlight_hard.mps.sol)                              |  3.7000000000e+01 | Yes      | [miplib](https://miplib.zib.de/instance_details_enlight_hard.html) |
+| [ex10](ex10.mps.sol)                                              |  1.0000000000e+02 | Yes      | [miplib](https://miplib.zib.de/instance_details_ex10.html) |
+| [ex9](ex9.mps.sol)                                                |  8.1000000000e+01 | Yes      | [miplib](https://miplib.zib.de/instance_details_ex9.html) |
+| [exp-1-500-5-5](exp-1-500-5-5.mps.sol)                            |  6.5887000000e+04 | Yes      | [miplib](https://miplib.zib.de/instance_details_exp-1-500-5-5.html) |
+| [fast0507](fast0507.mps.sol)                                      |  1.7400000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_fast0507.html) |
+| [fastxgemm-n2r6s0t2](fastxgemm-n2r6s0t2.mps.sol)                  |  2.3600000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_fastxgemm-n2r6s0t2.html) |
+| [fhnw-binpack4-4](fhnw-binpack4-4.mps.sol)                        |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_fhnw-binpack4-4.html) |
+| [fhnw-binpack4-48](fhnw-binpack4-48.mps.sol)                      |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_fhnw-binpack4-48.html) |
+| [fiball](fiball.mps.sol)                                          |  1.3800000000e+02 | Yes      | [miplib](https://miplib.zib.de/instance_details_fiball.html) |
+| [gen-ip002](gen-ip002.mps.sol)                                    | -4.7754008521e+03 | No       | [miplib](https://miplib.zib.de/instance_details_gen-ip002.html) |
+| [gen-ip054](gen-ip054.mps.sol)                                    |  6.8491468526e+03 | No       | [miplib](https://miplib.zib.de/instance_details_gen-ip054.html) |
+| [germanrr](germanrr.mps.sol)                                      |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_germanrr.html) |
+| [gfd-schedulen180f7d50m30k18](gfd-schedulen180f7d50m30k18.mps.sol)|  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_gfd-schedulen180f7d50m30k18.html) |
+| [glass-sc](glass-sc.mps.sol)                                      |  2.3000000000e+01 | No       | [miplib](https://miplib.zib.de/instance_details_glass-sc.html) |
+| [glass4](glass4.mps.sol)                                          |  1.5000146000e+09 | No       | [miplib](https://miplib.zib.de/instance_details_glass4.html) |
+| [gmu-35-40](gmu-35-40.mps.sol)                                    | -2.4062310645e+06 | No       | [miplib](https://miplib.zib.de/instance_details_gmu-35-40.html) |
+| [gmu-35-50](gmu-35-50.mps.sol)                                    | -2.6067855003e+06 | No       | [miplib](https://miplib.zib.de/instance_details_gmu-35-50.html) |
 | [graph20-20-1rand](graph20-20-1rand.mps.sol)                      |   |  | [miplib](https://miplib.zib.de/instance_details_graph20-20-1rand.html) |
 | [graphdraw-domain](graphdraw-domain.mps.sol)                      |   |  | [miplib](https://miplib.zib.de/instance_details_graphdraw-domain.html) |
 | [h80x6320d](h80x6320d.mps.sol)                                    |   |  | [miplib](https://miplib.zib.de/instance_details_h80x6320d.html) |
