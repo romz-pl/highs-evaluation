@@ -1,7 +1,7 @@
 # Evaluation of MIPLIB 2017: timeout 10s
 
 
-The following command was executed to run the benchmark:
+The following script was executed to obtain the results:
 ```bash
 #!/bin/bash
 
@@ -13,7 +13,7 @@ for file in *.mps; do
 done
 ```
 
-The content of `highs_option.txt` file:
+The content of `highs_option.txt` file is the following:
 ```
 time_limit = 300
 presolve = on
