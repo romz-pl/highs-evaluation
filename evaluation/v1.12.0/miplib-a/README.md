@@ -186,7 +186,7 @@ parallel = off
 | [ns1760995](ns1760995.mps.sol)                                    |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_ns1760995.html) |
 | [ns1830653](ns1830653.mps.sol)                                    |  2.0622000000e+04 | No       | [miplib](https://miplib.zib.de/instance_details_ns1830653.html) |
 | [ns1952667](ns1952667.mps.sol)                                    |  infinity         | No       | [miplib](https://miplib.zib.de/instance_details_ns1952667.html) |
-| [nu25-pr12](nu25-pr12.mps.sol)                                    |  5.3905000000e+04 | No       | [miplib](https://miplib.zib.de/instance_details_nu25-pr12.html) |
+| [nu25-pr12](nu25-pr12.mps.sol)                                    |  5.3905000000e+04 | Yes      | [miplib](https://miplib.zib.de/instance_details_nu25-pr12.html) |
 | [nursesched-medium-hint03](nursesched-medium-hint03.mps.sol)      |  1.3700000000e+02 | No       | [miplib](https://miplib.zib.de/instance_details_nursesched-medium-hint03.html) |
 | [nursesched-sprint02](nursesched-sprint02.mps.sol)                |  5.8000000000e+01 | Yes      | [miplib](https://miplib.zib.de/instance_details_nursesched-sprint02.html) |
 | [nw04](nw04.mps.sol)                                              |  1.6862000000e+04 | Yes      | [miplib](https://miplib.zib.de/instance_details_nw04.html) |
