@@ -26,7 +26,7 @@ kkt_tolerance = 1e-06
 ```
 
 
-| Model                                                                  | Status      | Primal bound      | Dual bound        | Delat Gap         | Gap [%]    | Status     | LP iterations | MIPLIB Reference |
+| Model                                                                  | Status      | Primal bound      | Dual bound        | Delta Gap         | Gap [%]    | Status     | LP iterations | MIPLIB Reference |
 |------------------------------------------------------------------------|-------------|------------------:|------------------:|------------------:|-----------:|------------|--------------:|------------------|
 | [30n20b8](30n20b8.mps.sol)                                             | Optimal     |  3.0200000000e+02 |  3.0200000000e+02 |  0.0000000000e+00 |   0.00e+00 |   feasible |         85523 | [miplib](https://miplib.zib.de/instance_details_30n20b8.html) |
 | [50v-10](50v-10.mps.sol)                                               | Time        |  3.3780499897e+03 |  3.2716492218e+03 |  1.0640076790e+02 |   3.15e+00 |   feasible |       1638574 | [miplib](https://miplib.zib.de/instance_details_50v-10.html) |
