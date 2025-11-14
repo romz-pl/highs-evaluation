@@ -92,14 +92,14 @@ def generate_markdown_table(data):
     # row = f"| [{data['model_name']}]({data['filename']}) | {data['status']} | {data['primal_bound']} | {data['dual_bound']} | {data['gap']} | {data['solution_status']} | {data['lp_iterations']} | [miplib]({data['miplib_url']}) |"
 
     model = f"[{data['model_name']}]({data['filename']})"
-    row = f"| {model:<70} | {data['status']:11} | {data['primal_bound']:18} | {data['dual_bound']:18} | {data['gap_delta']:18} | {data['gap']:10} | {data['solution_status']:10} | {data['lp_iterations']:13} | [miplib]({data['miplib_url']}) |"
+    row = f"| {model:<70} | {data['status']:<11} | {data['primal_bound']:>17} | {data['dual_bound']:>17} | {data['gap_delta']:>17} | {data['gap']:>10} | {data['solution_status']:>10} | {data['lp_iterations']:>13} | [miplib]({data['miplib_url']}) |"
 
 
     #return f"{header}\n{separator}\n{row}"
     return row
 
 def main():
-    for file in Path(".").glob("*.mps.sol"):
+    for file in sorted(Path(".").glob("*.mps.sol")):
         # Skip if it is a directory
         if file.is_file():
             try:
