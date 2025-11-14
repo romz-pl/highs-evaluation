@@ -1,0 +1,6 @@
+time_limit = 300
+presolve = on
+solver = simplex
+parallel = off
+kkt_tolerance = 1e-06
+
