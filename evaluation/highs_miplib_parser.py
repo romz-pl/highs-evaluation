@@ -82,21 +82,24 @@ def parse_highs_output(filename):
 def generate_markdown_table(data):
     """Generate markdown table from parsed data."""
 
-    # Table header
-    #header = "| Model | Status | Primal bound | Dual bound | Gap [%] | Solution status | LP iterations | MIPLIB Reference |"
-    #separator = "|---|---:|---:|---:|---|---|---|---|"
+    print(f"\n\n## Model: {data['model_name']}\n")
+    print("| Key              | Value |")
+    print("|------------------|-------|")
 
-    # Table row
+    rows = [
+        ("Solution", f"[{data['model_name']}]({data['filename']})"),
+        ("Status", data['status']),
+        ("Primal bound", data['primal_bound']),
+        ("Dual bound", data['dual_bound']),
+        ("Delta Gap", data['gap_delta']),
+        ("Gap [%]", data['gap']),
+        ("Solution status", data['solution_status']),
+        ("LP iterations", data['lp_iterations']),
+        ("MIPLIB Reference", f"[{data['model_name']}]({data['miplib_url']})")
+    ]
 
-
-    # row = f"| [{data['model_name']}]({data['filename']}) | {data['status']} | {data['primal_bound']} | {data['dual_bound']} | {data['gap']} | {data['solution_status']} | {data['lp_iterations']} | [miplib]({data['miplib_url']}) |"
-
-    model = f"[{data['model_name']}]({data['filename']})"
-    row = f"| {model:<70} | {data['status']:<11} | {data['primal_bound']:>17} | {data['dual_bound']:>17} | {data['gap_delta']:>17} | {data['gap']:>10} | {data['solution_status']:>10} | {data['lp_iterations']:>13} | [miplib]({data['miplib_url']}) |"
-
-
-    #return f"{header}\n{separator}\n{row}"
-    return row
+    for key, value in rows:
+        print(f"| {key:<16} | {value} |")
 
 def main():
     for file in sorted(Path(".").glob("*.mps.sol")):
@@ -104,8 +107,7 @@ def main():
         if file.is_file():
             try:
                 data = parse_highs_output(file.name)
-                table = generate_markdown_table(data)
-                print(table)
+                generate_markdown_table(data)
             except FileNotFoundError:
                 print(f"Error: File '{file.name}' not found.")
                 sys.exit(1)
