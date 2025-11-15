@@ -1,6 +1,6 @@
 # Evaluation of HiGHS
 
-## Results for MIPLIB
+## Evaluation results for various versions of HiGHS
 
 1. Results for **HiGHS version 1.12.0** are listed in [here](./evaluation/v1.12.0/README.md).
 
@@ -27,13 +27,13 @@ $$
 
 ## MIPLIB
 
-1. The **lp_solve** was evaluated using problems from the [**MIPLIB database**](https://miplib.zib.de/).
+1. The **HiGHS** was evaluated using problems from the [**MIPLIB database**](https://miplib.zib.de/).
 
 2. The current maintainers of the **MIPLIB** website and its content are Ambros Gleixner and Mark Turner. 
 
 3. Citation for the **MIPLIB** database:
 
-```
+```bibtex
 @article{
   author  = {Gleixner, Ambros and 
              Hendel, Gregor and 
