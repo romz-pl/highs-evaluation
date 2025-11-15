@@ -25,7 +25,7 @@ def parse_highs_output(filename):
     model_name = filename.replace('.mps.sol', '').split('/')[-1]
 
     # Extract values using regex patterns
-    status_match = re.search(r'Status\s+(\w+)', content)
+    status_match = re.search(r'Status\s+(.+)', content)
     status = status_match.group(1) if status_match else 'Unknown'
 
     primal_match = re.search(r'Primal bound\s+(.+)', content)
