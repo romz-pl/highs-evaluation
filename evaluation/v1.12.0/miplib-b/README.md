@@ -17,7 +17,7 @@ done
 ```
 
 The content of `highs_option.txt` file is the following:
-```
+```ini
 time_limit = 300
 presolve = on
 solver = simplex
