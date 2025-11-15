@@ -1,5 +1,11 @@
 # Evaluation of HiGHS
 
+## Results for MIPLIB
+
+1. Results for Simplex method are listed in [here](./evaluation/miplib/README.md).
+
+## HiGHS
+
 1. **HiGHS** is software for the definition, modification and solution of large scale sparse linear optimization models.
 
 2. **HiGHS** is freely available from GitHub under the MIT licence and has no third-party dependencies.
