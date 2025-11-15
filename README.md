@@ -2,7 +2,7 @@
 
 ## Results for MIPLIB
 
-1. Results for **HiGHS version v1.12.0** are listed in [here](./evaluation/v1.12.0/miplib/README.md).
+1. Results for **HiGHS version 1.12.0** are listed in [here](./evaluation/v1.12.0/README.md).
 
 ## HiGHS
 
