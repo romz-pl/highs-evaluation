@@ -1,0 +1,4 @@
+time_limit = 300
+presolve = on
+solver = ipx
+parallel = off

@@ -1,6 +1,6 @@
 # Evaluation of MIPLIB 2017
 
-## Simplex method
+## Simplex solver
 
 ### Case miplib-01
 
@@ -52,4 +52,16 @@ presolve = on
 solver = simplex
 parallel = off
 kkt_tolerance = 1e-04
+```
+
+## IPX, interior point solver
+
+1. The results are listed in the [miplib-05/README.md](miplib-05/README.md) file.
+
+2. The content of `highs_option.txt` file is the following:
+```ini
+time_limit = 300
+presolve = on
+solver = ipx
+parallel = off
 ```
