@@ -20,9 +20,11 @@ $$
 \end{aligned}
 $$
 
-5. [Documentation](https://lp-solve.github.io/) for **HiGHS**.
+4. [Web page](https://highs.dev/) for **HiGHS**.
 
-6. [Source code](https://github.com/kerrickstaley/lp_solve) for **HiGHS** on GitHub.
+5. [Documentation](https://ergo-code.github.io/HiGHS/dev/) for **HiGHS**.
+
+6. [Source code](https://github.com/ERGO-Code/HiGHS) for **HiGHS** on GitHub.
 
 
 ## MIPLIB
