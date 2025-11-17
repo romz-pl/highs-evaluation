@@ -63,6 +63,12 @@ def parse_highs_output(filename):
     lp_iterations_match = re.search(r'LP iterations\s+(\d+)', content)
     lp_iterations = lp_iterations_match.group(1) if lp_iterations_match else 'N/A'
 
+    objective_value_match = re.search(r'Objective value     :\s+(.+)', content)
+    objective_value = objective_value_match.group(1) if objective_value_match else 'N/A'
+
+    model_status_match = re.search(r'Model status        :\s+(.+)', content)
+    model_status = model_status_match.group(1) if model_status_match else 'N/A'
+
     # Generate MIPLIB URL
     miplib_url = f"https://miplib.zib.de/instance_details_{model_name}.html"
 
@@ -76,6 +82,8 @@ def parse_highs_output(filename):
         'gap': gap,
         'solution_status': solution_status,
         'lp_iterations': lp_iterations,
+        'objective_value': objective_value,
+        'model_status': model_status,
         'miplib_url': miplib_url
     }
 
@@ -95,6 +103,8 @@ def generate_markdown_table(data):
         ("Gap [%]", data['gap']),
         ("Solution status", data['solution_status']),
         ("LP iterations", data['lp_iterations']),
+        ("Objective value", data['objective_value']),
+        ("Model status", data['model_status']),
         ("MIPLIB Reference", f"[{data['model_name']}]({data['miplib_url']})")
     ]
 
