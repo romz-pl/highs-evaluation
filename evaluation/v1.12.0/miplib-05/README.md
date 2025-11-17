@@ -22,6 +22,7 @@ time_limit = 300
 presolve = on
 solver = ipx
 parallel = off
+ipm_optimality_tolerance = 1e-08
 ```
 
 
@@ -39,6 +40,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 85523 |
+| Objective value  | 3.0200000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [30n20b8](https://miplib.zib.de/instance_details_30n20b8.html) |
 
 
@@ -54,6 +57,8 @@ parallel = off
 | Gap [%]          | 3.15e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1643625 |
+| Objective value  | 3.3780499897e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [50v-10](https://miplib.zib.de/instance_details_50v-10.html) |
 
 
@@ -69,6 +74,8 @@ parallel = off
 | Gap [%]          | 7.06e+00 |
 | Solution status  | feasible |
 | LP iterations    | 542831 |
+| Objective value  | 2.6900000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [CMS750_4](https://miplib.zib.de/instance_details_CMS750_4.html) |
 
 
@@ -84,6 +91,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 436561 |
+| Objective value  | 1.4600000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [academictimetablesmall](https://miplib.zib.de/instance_details_academictimetablesmall.html) |
 
 
@@ -99,6 +108,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 136628 |
+| Objective value  | 2.6374000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [air05](https://miplib.zib.de/instance_details_air05.html) |
 
 
@@ -114,6 +125,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 86764 |
+| Objective value  | -3.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [app1-1](https://miplib.zib.de/instance_details_app1-1.html) |
 
 
@@ -129,6 +142,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 315086 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [app1-2](https://miplib.zib.de/instance_details_app1-2.html) |
 
 
@@ -144,6 +159,8 @@ parallel = off
 | Gap [%]          | 5.66e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4176033 |
+| Objective value  | 2.1200000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [assign1-5-8](https://miplib.zib.de/instance_details_assign1-5-8.html) |
 
 
@@ -159,6 +176,8 @@ parallel = off
 | Gap [%]          | 1.28e+01 |
 | Solution status  | feasible |
 | LP iterations    | 478667 |
+| Objective value  | 9.4009818706e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [atlanta-ip](https://miplib.zib.de/instance_details_atlanta-ip.html) |
 
 
@@ -174,6 +193,8 @@ parallel = off
 | Gap [%]          | 1.68e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1306567 |
+| Objective value  | 2.5245500000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [b1c1s1](https://miplib.zib.de/instance_details_b1c1s1.html) |
 
 
@@ -189,6 +210,8 @@ parallel = off
 | Gap [%]          | 4.55e-01 |
 | Solution status  | feasible |
 | LP iterations    | 209956 |
+| Objective value  | -3.5672242700e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [bab2](https://miplib.zib.de/instance_details_bab2.html) |
 
 
@@ -204,6 +227,8 @@ parallel = off
 | Gap [%]          | 3.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 200668 |
+| Objective value  | -2.8086172900e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [bab6](https://miplib.zib.de/instance_details_bab6.html) |
 
 
@@ -219,6 +244,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 145443 |
+| Objective value  | 7.5400000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [beasleyC3](https://miplib.zib.de/instance_details_beasleyC3.html) |
 
 
@@ -234,6 +261,8 @@ parallel = off
 | Gap [%]          | 9.97e-03 |
 | Solution status  | feasible |
 | LP iterations    | 183211 |
+| Objective value  | 6.7422000240e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [binkar10_1](https://miplib.zib.de/instance_details_binkar10_1.html) |
 
 
@@ -249,6 +278,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 3804 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [blp-ar98](https://miplib.zib.de/instance_details_blp-ar98.html) |
 
 
@@ -264,6 +295,8 @@ parallel = off
 | Gap [%]          | 1.98e+00 |
 | Solution status  | feasible |
 | LP iterations    | 239546 |
+| Objective value  | 4.5351997952e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [blp-ic98](https://miplib.zib.de/instance_details_blp-ic98.html) |
 
 
@@ -279,6 +312,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 2000113 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [bnatt400](https://miplib.zib.de/instance_details_bnatt400.html) |
 
 
@@ -294,6 +329,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1545429 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [bnatt500](https://miplib.zib.de/instance_details_bnatt500.html) |
 
 
@@ -309,6 +346,8 @@ parallel = off
 | Gap [%]          | 1.89e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5312309 |
+| Objective value  | 5.3000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [bppc4-08](https://miplib.zib.de/instance_details_bppc4-08.html) |
 
 
@@ -324,6 +363,8 @@ parallel = off
 | Gap [%]          | 8.15e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1358413 |
+| Objective value  | 1.3000000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [brazil3](https://miplib.zib.de/instance_details_brazil3.html) |
 
 
@@ -339,6 +380,8 @@ parallel = off
 | Gap [%]          | 2.08e+00 |
 | Solution status  | feasible |
 | LP iterations    | 257555 |
+| Objective value  | 3.3975380958e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [buildingenergy](https://miplib.zib.de/instance_details_buildingenergy.html) |
 
 
@@ -354,6 +397,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 164984 |
+| Objective value  | 0.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [cbs-cta](https://miplib.zib.de/instance_details_cbs-cta.html) |
 
 
@@ -369,6 +414,8 @@ parallel = off
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 81435 |
+| Objective value  | 4.0000000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [chromaticindex1024-7](https://miplib.zib.de/instance_details_chromaticindex1024-7.html) |
 
 
@@ -384,6 +431,8 @@ parallel = off
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 41084 |
+| Objective value  | 4.0000000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [chromaticindex512-7](https://miplib.zib.de/instance_details_chromaticindex512-7.html) |
 
 
@@ -399,6 +448,8 @@ parallel = off
 | Gap [%]          | 4.87e+00 |
 | Solution status  | feasible |
 | LP iterations    | 624378 |
+| Objective value  | 5.7654167323e+07 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [cmflsp50-24-8-8](https://miplib.zib.de/instance_details_cmflsp50-24-8-8.html) |
 
 
@@ -414,6 +465,8 @@ parallel = off
 | Gap [%]          | 7.28e+01 |
 | Solution status  | feasible |
 | LP iterations    | 51318 |
+| Objective value  | 3.8793083700e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [co-100](https://miplib.zib.de/instance_details_co-100.html) |
 
 
@@ -429,6 +482,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 229137 |
+| Objective value  | -1.2000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [cod105](https://miplib.zib.de/instance_details_cod105.html) |
 
 
@@ -444,6 +499,8 @@ parallel = off
 | Gap [%]          | 9.06e+01 |
 | Solution status  | feasible |
 | LP iterations    | 440679 |
+| Objective value  | 6.4000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [comp07-2idx](https://miplib.zib.de/instance_details_comp07-2idx.html) |
 
 
@@ -459,6 +516,8 @@ parallel = off
 | Gap [%]          | 7.87e+01 |
 | Solution status  | feasible |
 | LP iterations    | 721918 |
+| Objective value  | 2.0700000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [comp21-2idx](https://miplib.zib.de/instance_details_comp21-2idx.html) |
 
 
@@ -474,6 +533,8 @@ parallel = off
 | Gap [%]          | 1.14e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1313283 |
+| Objective value  | 2.6515101060e+07 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [cost266-UUE](https://miplib.zib.de/instance_details_cost266-UUE.html) |
 
 
@@ -489,6 +550,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 263029 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [cryptanalysiskb128n5obj14](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj14.html) |
 
 
@@ -504,6 +567,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 283796 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [cryptanalysiskb128n5obj16](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj16.html) |
 
 
@@ -519,6 +584,8 @@ parallel = off
 | Gap [%]          | 1.13e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2586620 |
+| Objective value  | 3.6300000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [csched007](https://miplib.zib.de/instance_details_csched007.html) |
 
 
@@ -534,6 +601,8 @@ parallel = off
 | Gap [%]          | 5.78e-01 |
 | Solution status  | feasible |
 | LP iterations    | 4280962 |
+| Objective value  | 1.7300000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [csched008](https://miplib.zib.de/instance_details_csched008.html) |
 
 
@@ -549,6 +618,8 @@ parallel = off
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 541557 |
+| Objective value  | -9.6000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [cvs16r128-89](https://miplib.zib.de/instance_details_cvs16r128-89.html) |
 
 
@@ -564,6 +635,8 @@ parallel = off
 | Gap [%]          | 7.01e-03 |
 | Solution status  | feasible |
 | LP iterations    | 115849 |
+| Objective value  | 5.7634463303e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [dano3_3](https://miplib.zib.de/instance_details_dano3_3.html) |
 
 
@@ -579,6 +652,8 @@ parallel = off
 | Gap [%]          | 3.87e-02 |
 | Solution status  | feasible |
 | LP iterations    | 537110 |
+| Objective value  | 5.7692491596e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [dano3_5](https://miplib.zib.de/instance_details_dano3_5.html) |
 
 
@@ -594,6 +669,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 8373 |
+| Objective value  | -1.6000000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [decomp2](https://miplib.zib.de/instance_details_decomp2.html) |
 
 
@@ -609,6 +686,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1689 |
+| Objective value  | 1.0333387407e+05 |
+| Model status     | Optimal |
 | MIPLIB Reference | [drayage-100-23](https://miplib.zib.de/instance_details_drayage-100-23.html) |
 
 
@@ -624,6 +703,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 6726 |
+| Objective value  | 1.0128264702e+05 |
+| Model status     | Optimal |
 | MIPLIB Reference | [drayage-25-23](https://miplib.zib.de/instance_details_drayage-25-23.html) |
 
 
@@ -639,6 +720,8 @@ parallel = off
 | Gap [%]          | 5.95e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1130354 |
+| Objective value  | 3.9618281338e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [dws008-01](https://miplib.zib.de/instance_details_dws008-01.html) |
 
 
@@ -654,6 +737,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 168031 |
+| Objective value  | 9.3400791600e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [eil33-2](https://miplib.zib.de/instance_details_eil33-2.html) |
 
 
@@ -669,6 +754,8 @@ parallel = off
 | Gap [%]          | 7.24e+01 |
 | Solution status  | feasible |
 | LP iterations    | 990 |
+| Objective value  | 2.9116006220e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [eilA101-2](https://miplib.zib.de/instance_details_eilA101-2.html) |
 
 
@@ -684,6 +771,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 200247 |
+| Objective value  | 3.7000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [enlight_hard](https://miplib.zib.de/instance_details_enlight_hard.html) |
 
 
@@ -699,6 +788,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 0 |
+| Objective value  | 1.0000000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [ex10](https://miplib.zib.de/instance_details_ex10.html) |
 
 
@@ -714,6 +805,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 0 |
+| Objective value  | 8.1000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [ex9](https://miplib.zib.de/instance_details_ex9.html) |
 
 
@@ -729,6 +822,8 @@ parallel = off
 | Gap [%]          | 7.02e-03 |
 | Solution status  | feasible |
 | LP iterations    | 15699 |
+| Objective value  | 6.5887000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [exp-1-500-5-5](https://miplib.zib.de/instance_details_exp-1-500-5-5.html) |
 
 
@@ -744,6 +839,8 @@ parallel = off
 | Gap [%]          | 1.14e+00 |
 | Solution status  | feasible |
 | LP iterations    | 508276 |
+| Objective value  | 1.7500000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [fast0507](https://miplib.zib.de/instance_details_fast0507.html) |
 
 
@@ -759,6 +856,8 @@ parallel = off
 | Gap [%]          | 8.86e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2962574 |
+| Objective value  | 2.3600000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [fastxgemm-n2r6s0t2](https://miplib.zib.de/instance_details_fastxgemm-n2r6s0t2.html) |
 
 
@@ -774,6 +873,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 5755788 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [fhnw-binpack4-4](https://miplib.zib.de/instance_details_fhnw-binpack4-4.html) |
 
 
@@ -789,6 +890,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1439217 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [fhnw-binpack4-48](https://miplib.zib.de/instance_details_fhnw-binpack4-48.html) |
 
 
@@ -804,6 +907,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 24032 |
+| Objective value  | 1.3800000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [fiball](https://miplib.zib.de/instance_details_fiball.html) |
 
 
@@ -819,6 +924,8 @@ parallel = off
 | Gap [%]          | 8.49e-01 |
 | Solution status  | feasible |
 | LP iterations    | 4445686 |
+| Objective value  | -4.7754008521e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [gen-ip002](https://miplib.zib.de/instance_details_gen-ip002.html) |
 
 
@@ -834,6 +941,8 @@ parallel = off
 | Gap [%]          | 8.69e-01 |
 | Solution status  | feasible |
 | LP iterations    | 5471457 |
+| Objective value  | 6.8491468526e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [gen-ip054](https://miplib.zib.de/instance_details_gen-ip054.html) |
 
 
@@ -849,6 +958,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 8945 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [germanrr](https://miplib.zib.de/instance_details_germanrr.html) |
 
 
@@ -864,6 +975,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 118686 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [gfd-schedulen180f7d50m30k18](https://miplib.zib.de/instance_details_gfd-schedulen180f7d50m30k18.html) |
 
 
@@ -879,6 +992,8 @@ parallel = off
 | Gap [%]          | 3.04e+01 |
 | Solution status  | feasible |
 | LP iterations    | 764325 |
+| Objective value  | 2.3000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [glass-sc](https://miplib.zib.de/instance_details_glass-sc.html) |
 
 
@@ -894,6 +1009,8 @@ parallel = off
 | Gap [%]          | 3.33e+01 |
 | Solution status  | feasible |
 | LP iterations    | 5743311 |
+| Objective value  | 1.5000146000e+09 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [glass4](https://miplib.zib.de/instance_details_glass4.html) |
 
 
@@ -909,6 +1026,8 @@ parallel = off
 | Gap [%]          | 2.53e-02 |
 | Solution status  | feasible |
 | LP iterations    | 4222851 |
+| Objective value  | -2.4062310645e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [gmu-35-40](https://miplib.zib.de/instance_details_gmu-35-40.html) |
 
 
@@ -924,6 +1043,8 @@ parallel = off
 | Gap [%]          | 4.87e-02 |
 | Solution status  | feasible |
 | LP iterations    | 3214266 |
+| Objective value  | -2.6067855003e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [gmu-35-50](https://miplib.zib.de/instance_details_gmu-35-50.html) |
 
 
@@ -939,6 +1060,8 @@ parallel = off
 | Gap [%]          | 1.22e+02 |
 | Solution status  | feasible |
 | LP iterations    | 1271560 |
+| Objective value  | -9.0000000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [graph20-20-1rand](https://miplib.zib.de/instance_details_graph20-20-1rand.html) |
 
 
@@ -954,6 +1077,8 @@ parallel = off
 | Gap [%]          | 2.41e+01 |
 | Solution status  | feasible |
 | LP iterations    | 4304431 |
+| Objective value  | 1.9686000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [graphdraw-domain](https://miplib.zib.de/instance_details_graphdraw-domain.html) |
 
 
@@ -969,6 +1094,8 @@ parallel = off
 | Gap [%]          | 9.93e-03 |
 | Solution status  | feasible |
 | LP iterations    | 44499 |
+| Objective value  | 6.3820990500e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [h80x6320d](https://miplib.zib.de/instance_details_h80x6320d.html) |
 
 
@@ -984,6 +1111,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 171238 |
+| Objective value  | 1.6092000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [highschool1-aigio](https://miplib.zib.de/instance_details_highschool1-aigio.html) |
 
 
@@ -999,6 +1128,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3014 |
+| Objective value  | -2.8510000000e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [hypothyroid-k1](https://miplib.zib.de/instance_details_hypothyroid-k1.html) |
 
 
@@ -1014,6 +1145,8 @@ parallel = off
 | Gap [%]          | 4.84e-01 |
 | Solution status  | feasible |
 | LP iterations    | 2751887 |
+| Objective value  | 3.9430000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ic97_potential](https://miplib.zib.de/instance_details_ic97_potential.html) |
 
 
@@ -1029,6 +1162,8 @@ parallel = off
 | Gap [%]          | 3.74e-01 |
 | Solution status  | feasible |
 | LP iterations    | 1454977 |
+| Objective value  | 6.3880000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [icir97_tension](https://miplib.zib.de/instance_details_icir97_tension.html) |
 
 
@@ -1044,6 +1179,8 @@ parallel = off
 | Gap [%]          | 5.29e+00 |
 | Solution status  | feasible |
 | LP iterations    | 190143 |
+| Objective value  | 3.8165085561e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [irish-electricity](https://miplib.zib.de/instance_details_irish-electricity.html) |
 
 
@@ -1059,6 +1196,8 @@ parallel = off
 | Gap [%]          | 9.81e-03 |
 | Solution status  | feasible |
 | LP iterations    | 4761 |
+| Objective value  | 1.2159492836e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [irp](https://miplib.zib.de/instance_details_irp.html) |
 
 
@@ -1074,6 +1213,8 @@ parallel = off
 | Gap [%]          | 6.08e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1658299 |
+| Objective value  | 2.0783035499e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [istanbul-no-cutoff](https://miplib.zib.de/instance_details_istanbul-no-cutoff.html) |
 
 
@@ -1089,6 +1230,8 @@ parallel = off
 | Gap [%]          | 5.24e+01 |
 | Solution status  | feasible |
 | LP iterations    | 8860 |
+| Objective value  | -2.6880000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [k1mushroom](https://miplib.zib.de/instance_details_k1mushroom.html) |
 
 
@@ -1104,6 +1247,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 864402 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [lectsched-5-obj](https://miplib.zib.de/instance_details_lectsched-5-obj.html) |
 
 
@@ -1119,6 +1264,8 @@ parallel = off
 | Gap [%]          | 4.73e+00 |
 | Solution status  | feasible |
 | LP iterations    | 300720 |
+| Objective value  | 4.1664594048e+08 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [leo1](https://miplib.zib.de/instance_details_leo1.html) |
 
 
@@ -1134,6 +1281,8 @@ parallel = off
 | Gap [%]          | 5.67e+00 |
 | Solution status  | feasible |
 | LP iterations    | 316226 |
+| Objective value  | 4.1813429616e+08 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [leo2](https://miplib.zib.de/instance_details_leo2.html) |
 
 
@@ -1149,6 +1298,8 @@ parallel = off
 | Gap [%]          | 1.66e+00 |
 | Solution status  | feasible |
 | LP iterations    | 584786 |
+| Objective value  | 1.4894170000e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [lotsize](https://miplib.zib.de/instance_details_lotsize.html) |
 
 
@@ -1164,6 +1315,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 4175012 |
+| Objective value  | 5.4199999989e-02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [mad](https://miplib.zib.de/instance_details_mad.html) |
 
 
@@ -1179,6 +1332,8 @@ parallel = off
 | Gap [%]          | 2.76e+01 |
 | Solution status  | feasible |
 | LP iterations    | 556827 |
+| Objective value  | -4.5400000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [map10](https://miplib.zib.de/instance_details_map10.html) |
 
 
@@ -1194,6 +1349,8 @@ parallel = off
 | Gap [%]          | 1.42e+02 |
 | Solution status  | feasible |
 | LP iterations    | 509635 |
+| Objective value  | -1.0900000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [map16715-04](https://miplib.zib.de/instance_details_map16715-04.html) |
 
 
@@ -1209,6 +1366,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 3832860 |
+| Objective value  | 2.8000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [markshare2](https://miplib.zib.de/instance_details_markshare2.html) |
 
 
@@ -1224,6 +1383,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3249045 |
+| Objective value  | 1.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [markshare_4_0](https://miplib.zib.de/instance_details_markshare_4_0.html) |
 
 
@@ -1239,6 +1400,8 @@ parallel = off
 | Gap [%]          | 9.27e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4205566 |
+| Objective value  | 1.2163055188e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [mas74](https://miplib.zib.de/instance_details_mas74.html) |
 
 
@@ -1254,6 +1417,8 @@ parallel = off
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 2314385 |
+| Objective value  | N/A |
+| Model status     | Solve error |
 | MIPLIB Reference | [mas76](https://miplib.zib.de/instance_details_mas76.html) |
 
 
@@ -1269,6 +1434,8 @@ parallel = off
 | Gap [%]          | 8.56e-03 |
 | Solution status  | feasible |
 | LP iterations    | 133748 |
+| Objective value  | 1.1689000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [mc11](https://miplib.zib.de/instance_details_mc11.html) |
 
 
@@ -1284,6 +1451,8 @@ parallel = off
 | Gap [%]          | 6.46e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1544063 |
+| Objective value  | 2.1192000000e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [mcsched](https://miplib.zib.de/instance_details_mcsched.html) |
 
 
@@ -1299,6 +1468,8 @@ parallel = off
 | Gap [%]          | 9.70e-03 |
 | Solution status  | feasible |
 | LP iterations    | 116194 |
+| Objective value  | -5.2301000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [mik-250-20-75-4](https://miplib.zib.de/instance_details_mik-250-20-75-4.html) |
 
 
@@ -1314,6 +1485,8 @@ parallel = off
 | Gap [%]          | 3.31e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1283956 |
+| Objective value  | 3.2911158005e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [milo-v12-6-r2-40-1](https://miplib.zib.de/instance_details_milo-v12-6-r2-40-1.html) |
 
 
@@ -1329,6 +1502,8 @@ parallel = off
 | Gap [%]          | 2.11e+01 |
 | Solution status  | feasible |
 | LP iterations    | 537979 |
+| Objective value  | 1.2197714063e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [momentum1](https://miplib.zib.de/instance_details_momentum1.html) |
 
 
@@ -1344,6 +1519,8 @@ parallel = off
 | Gap [%]          | 5.80e-03 |
 | Solution status  | feasible |
 | LP iterations    | 259480 |
+| Objective value  | 5.5333761232e-02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [mushroom-best](https://miplib.zib.de/instance_details_mushroom-best.html) |
 
 
@@ -1359,6 +1536,8 @@ parallel = off
 | Gap [%]          | 9.21e-03 |
 | Solution status  | feasible |
 | LP iterations    | 92729 |
+| Objective value  | -2.1718000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [mzzv11](https://miplib.zib.de/instance_details_mzzv11.html) |
 
 
@@ -1374,6 +1553,8 @@ parallel = off
 | Gap [%]          | 9.74e-03 |
 | Solution status  | feasible |
 | LP iterations    | 85101 |
+| Objective value  | -2.0540000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [mzzv42z](https://miplib.zib.de/instance_details_mzzv42z.html) |
 
 
@@ -1389,6 +1570,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 128768 |
+| Objective value  | 5.2200000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [n2seq36q](https://miplib.zib.de/instance_details_n2seq36q.html) |
 
 
@@ -1404,6 +1587,8 @@ parallel = off
 | Gap [%]          | 5.95e+00 |
 | Solution status  | feasible |
 | LP iterations    | 223956 |
+| Objective value  | 1.3100000000e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [n3div36](https://miplib.zib.de/instance_details_n3div36.html) |
 
 
@@ -1419,6 +1604,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 171512 |
+| Objective value  | 8.1050000000e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [n5-3](https://miplib.zib.de/instance_details_n5-3.html) |
 
 
@@ -1434,6 +1621,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5835 |
+| Objective value  | 1.6100000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-1122047](https://miplib.zib.de/instance_details_neos-1122047.html) |
 
 
@@ -1449,6 +1638,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 225597 |
+| Objective value  | -3.0900000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-1171448](https://miplib.zib.de/instance_details_neos-1171448.html) |
 
 
@@ -1464,6 +1655,8 @@ parallel = off
 | Gap [%]          | 2.09e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1223028 |
+| Objective value  | -1.9100000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-1171737](https://miplib.zib.de/instance_details_neos-1171737.html) |
 
 
@@ -1479,6 +1672,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 597799 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-1354092](https://miplib.zib.de/instance_details_neos-1354092.html) |
 
 
@@ -1494,6 +1689,8 @@ parallel = off
 | Gap [%]          | 5.62e-03 |
 | Solution status  | feasible |
 | LP iterations    | 288060 |
+| Objective value  | -1.7783000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-1445765](https://miplib.zib.de/instance_details_neos-1445765.html) |
 
 
@@ -1509,6 +1706,8 @@ parallel = off
 | Gap [%]          | 2.26e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1243517 |
+| Objective value  | 1.7700000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-1456979](https://miplib.zib.de/instance_details_neos-1456979.html) |
 
 
@@ -1524,6 +1723,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 236227 |
+| Objective value  | 9.1000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-1582420](https://miplib.zib.de/instance_details_neos-1582420.html) |
 
 
@@ -1539,6 +1740,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 80052 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-2075418-temuka](https://miplib.zib.de/instance_details_neos-2075418-temuka.html) |
 
 
@@ -1554,6 +1757,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 5362471 |
+| Objective value  | 1.8107480000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-2657525-crna](https://miplib.zib.de/instance_details_neos-2657525-crna.html) |
 
 
@@ -1569,6 +1774,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 77979 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-2746589-doon](https://miplib.zib.de/instance_details_neos-2746589-doon.html) |
 
 
@@ -1584,6 +1791,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 102784 |
+| Objective value  | -2.3880616860e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-2978193-inde](https://miplib.zib.de/instance_details_neos-2978193-inde.html) |
 
 
@@ -1599,6 +1808,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3356 |
+| Objective value  | -6.0770298829e+08 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-2987310-joes](https://miplib.zib.de/instance_details_neos-2987310-joes.html) |
 
 
@@ -1614,6 +1825,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 917870 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3004026-krka](https://miplib.zib.de/instance_details_neos-3004026-krka.html) |
 
 
@@ -1629,6 +1842,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 401388 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3024952-loue](https://miplib.zib.de/instance_details_neos-3024952-loue.html) |
 
 
@@ -1644,6 +1859,8 @@ parallel = off
 | Gap [%]          | 7.07e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2213846 |
+| Objective value  | 1.6000000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3046615-murg](https://miplib.zib.de/instance_details_neos-3046615-murg.html) |
 
 
@@ -1659,6 +1876,8 @@ parallel = off
 | Gap [%]          | 9.99e-03 |
 | Solution status  | feasible |
 | LP iterations    | 47078 |
+| Objective value  | 6.3079960000e+06 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-3083819-nubu](https://miplib.zib.de/instance_details_neos-3083819-nubu.html) |
 
 
@@ -1674,6 +1893,8 @@ parallel = off
 | Gap [%]          | 6.21e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1376957 |
+| Objective value  | 1.6020000000e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3216931-puriri](https://miplib.zib.de/instance_details_neos-3216931-puriri.html) |
 
 
@@ -1689,6 +1910,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 18534 |
+| Objective value  | 4.5300000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-3381206-awhea](https://miplib.zib.de/instance_details_neos-3381206-awhea.html) |
 
 
@@ -1704,6 +1927,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 132480 |
+| Objective value  | 6.7250000000e-02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-3402294-bobin](https://miplib.zib.de/instance_details_neos-3402294-bobin.html) |
 
 
@@ -1719,6 +1944,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 2279 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3402454-bohle](https://miplib.zib.de/instance_details_neos-3402454-bohle.html) |
 
 
@@ -1734,6 +1961,8 @@ parallel = off
 | Gap [%]          | 2.44e+01 |
 | Solution status  | feasible |
 | LP iterations    | 159783 |
+| Objective value  | -3.3200000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3555904-turama](https://miplib.zib.de/instance_details_neos-3555904-turama.html) |
 
 
@@ -1749,6 +1978,8 @@ parallel = off
 | Gap [%]          | 9.85e-03 |
 | Solution status  | feasible |
 | LP iterations    | 345112 |
+| Objective value  | 9.8858562000e+05 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-3627168-kasai](https://miplib.zib.de/instance_details_neos-3627168-kasai.html) |
 
 
@@ -1764,6 +1995,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 747801 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3656078-kumeu](https://miplib.zib.de/instance_details_neos-3656078-kumeu.html) |
 
 
@@ -1779,6 +2012,8 @@ parallel = off
 | Gap [%]          | 4.21e+03 |
 | Solution status  | feasible |
 | LP iterations    | 7158525 |
+| Objective value  | 1.4147028836e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3754480-nidda](https://miplib.zib.de/instance_details_neos-3754480-nidda.html) |
 
 
@@ -1794,6 +2029,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 259924 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-3988577-wolgan](https://miplib.zib.de/instance_details_neos-3988577-wolgan.html) |
 
 
@@ -1809,6 +2046,8 @@ parallel = off
 | Gap [%]          | 9.44e+01 |
 | Solution status  | feasible |
 | LP iterations    | 350023 |
+| Objective value  | 5.0804000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4300652-rahue](https://miplib.zib.de/instance_details_neos-4300652-rahue.html) |
 
 
@@ -1824,6 +2063,8 @@ parallel = off
 | Gap [%]          | 2.10e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4368333 |
+| Objective value  | 1.4779999920e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4338804-snowy](https://miplib.zib.de/instance_details_neos-4338804-snowy.html) |
 
 
@@ -1839,6 +2080,8 @@ parallel = off
 | Gap [%]          | 2.93e+01 |
 | Solution status  | feasible |
 | LP iterations    | 934214 |
+| Objective value  | 3.5384729916e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4387871-tavua](https://miplib.zib.de/instance_details_neos-4387871-tavua.html) |
 
 
@@ -1854,6 +2097,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 12868 |
+| Objective value  | 4.5370167020e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-4413714-turia](https://miplib.zib.de/instance_details_neos-4413714-turia.html) |
 
 
@@ -1869,6 +2114,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 51757 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4532248-waihi](https://miplib.zib.de/instance_details_neos-4532248-waihi.html) |
 
 
@@ -1884,6 +2131,8 @@ parallel = off
 | Gap [%]          | 2.25e-02 |
 | Solution status  | feasible |
 | LP iterations    | 8257 |
+| Objective value  | 2.7271257000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4647030-tutaki](https://miplib.zib.de/instance_details_neos-4647030-tutaki.html) |
 
 
@@ -1899,6 +2148,8 @@ parallel = off
 | Gap [%]          | 1.92e+00 |
 | Solution status  | feasible |
 | LP iterations    | 136396 |
+| Objective value  | 2.5309884488e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4722843-widden](https://miplib.zib.de/instance_details_neos-4722843-widden.html) |
 
 
@@ -1914,6 +2165,8 @@ parallel = off
 | Gap [%]          | 9.80e-03 |
 | Solution status  | feasible |
 | LP iterations    | 814344 |
+| Objective value  | 2.8362795660e+08 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-4738912-atrato](https://miplib.zib.de/instance_details_neos-4738912-atrato.html) |
 
 
@@ -1929,6 +2182,8 @@ parallel = off
 | Gap [%]          | 4.25e+01 |
 | Solution status  | feasible |
 | LP iterations    | 32792 |
+| Objective value  | 1.9744828803e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4763324-toguru](https://miplib.zib.de/instance_details_neos-4763324-toguru.html) |
 
 
@@ -1944,6 +2199,8 @@ parallel = off
 | Gap [%]          | 5.36e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1979987 |
+| Objective value  | 2.6352840000e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-4954672-berkel](https://miplib.zib.de/instance_details_neos-4954672-berkel.html) |
 
 
@@ -1959,6 +2216,8 @@ parallel = off
 | Gap [%]          | 7.15e+01 |
 | Solution status  | feasible |
 | LP iterations    | 35561 |
+| Objective value  | 1.9190000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5049753-cuanza](https://miplib.zib.de/instance_details_neos-5049753-cuanza.html) |
 
 
@@ -1974,6 +2233,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 304595 |
+| Objective value  | 3.0500000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5052403-cygnet](https://miplib.zib.de/instance_details_neos-5052403-cygnet.html) |
 
 
@@ -1989,6 +2250,8 @@ parallel = off
 | Gap [%]          | 3.11e+01 |
 | Solution status  | feasible |
 | LP iterations    | 560594 |
+| Objective value  | 7.0820000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5093327-huahum](https://miplib.zib.de/instance_details_neos-5093327-huahum.html) |
 
 
@@ -2004,6 +2267,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 81638 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5104907-jarama](https://miplib.zib.de/instance_details_neos-5104907-jarama.html) |
 
 
@@ -2019,6 +2284,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1335361 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5107597-kakapo](https://miplib.zib.de/instance_details_neos-5107597-kakapo.html) |
 
 
@@ -2034,6 +2301,8 @@ parallel = off
 | Gap [%]          | 7.20e+01 |
 | Solution status  | feasible |
 | LP iterations    | 52338 |
+| Objective value  | 2.1720000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5114902-kasavu](https://miplib.zib.de/instance_details_neos-5114902-kasavu.html) |
 
 
@@ -2049,6 +2318,8 @@ parallel = off
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 890649 |
+| Objective value  | 1.1257090000e-01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5188808-nattai](https://miplib.zib.de/instance_details_neos-5188808-nattai.html) |
 
 
@@ -2064,6 +2335,8 @@ parallel = off
 | Gap [%]          | 9.16e+01 |
 | Solution status  | feasible |
 | LP iterations    | 673141 |
+| Objective value  | 1.2963712400e-02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-5195221-niemur](https://miplib.zib.de/instance_details_neos-5195221-niemur.html) |
 
 
@@ -2079,6 +2352,8 @@ parallel = off
 | Gap [%]          | 6.58e+01 |
 | Solution status  | feasible |
 | LP iterations    | 53875 |
+| Objective value  | 5.5300000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-631710](https://miplib.zib.de/instance_details_neos-631710.html) |
 
 
@@ -2094,6 +2369,8 @@ parallel = off
 | Gap [%]          | 4.74e-02 |
 | Solution status  | feasible |
 | LP iterations    | 515185 |
+| Objective value  | 1.8445600000e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-662469](https://miplib.zib.de/instance_details_neos-662469.html) |
 
 
@@ -2109,6 +2386,8 @@ parallel = off
 | Gap [%]          | 1.67e+01 |
 | Solution status  | feasible |
 | LP iterations    | 395156 |
+| Objective value  | 3.0000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-787933](https://miplib.zib.de/instance_details_neos-787933.html) |
 
 
@@ -2124,6 +2403,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 9651 |
+| Objective value  | 1.1200152000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-827175](https://miplib.zib.de/instance_details_neos-827175.html) |
 
 
@@ -2139,6 +2420,8 @@ parallel = off
 | Gap [%]          | 3.71e+00 |
 | Solution status  | feasible |
 | LP iterations    | 100968 |
+| Objective value  | 2.3778233000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [neos-848589](https://miplib.zib.de/instance_details_neos-848589.html) |
 
 
@@ -2154,6 +2437,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 15960 |
+| Objective value  | 3.2010000000e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-860300](https://miplib.zib.de/instance_details_neos-860300.html) |
 
 
@@ -2169,6 +2454,8 @@ parallel = off
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 251424 |
+| Objective value  | 1.1366483523e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-873061](https://miplib.zib.de/instance_details_neos-873061.html) |
 
 
@@ -2184,6 +2471,8 @@ parallel = off
 | Gap [%]          | 9.91e-03 |
 | Solution status  | feasible |
 | LP iterations    | 135193 |
+| Objective value  | 5.4760000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-911970](https://miplib.zib.de/instance_details_neos-911970.html) |
 
 
@@ -2199,6 +2488,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 414987 |
+| Objective value  | 3.1800000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-933966](https://miplib.zib.de/instance_details_neos-933966.html) |
 
 
@@ -2214,6 +2505,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 33631 |
+| Objective value  | 4.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-950242](https://miplib.zib.de/instance_details_neos-950242.html) |
 
 
@@ -2229,6 +2522,8 @@ parallel = off
 | Gap [%]          | 3.10e-04 |
 | Solution status  | feasible |
 | LP iterations    | 31621 |
+| Objective value  | -2.3775667161e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-957323](https://miplib.zib.de/instance_details_neos-957323.html) |
 
 
@@ -2244,6 +2539,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 12561 |
+| Objective value  | -2.3800000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos-960392](https://miplib.zib.de/instance_details_neos-960392.html) |
 
 
@@ -2259,6 +2556,8 @@ parallel = off
 | Gap [%]          | 6.58e-03 |
 | Solution status  | feasible |
 | LP iterations    | 53088 |
+| Objective value  | 1.5000257742e-01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos17](https://miplib.zib.de/instance_details_neos17.html) |
 
 
@@ -2274,6 +2573,8 @@ parallel = off
 | Gap [%]          | 7.89e-03 |
 | Solution status  | feasible |
 | LP iterations    | 3321801 |
+| Objective value  | 1.5000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos5](https://miplib.zib.de/instance_details_neos5.html) |
 
 
@@ -2289,6 +2590,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 99 |
+| Objective value  | -3.7190000000e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [neos8](https://miplib.zib.de/instance_details_neos8.html) |
 
 
@@ -2304,6 +2607,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 45338 |
+| Objective value  | inf |
+| Model status     | Infeasible |
 | MIPLIB Reference | [neos859080](https://miplib.zib.de/instance_details_neos859080.html) |
 
 
@@ -2319,6 +2624,8 @@ parallel = off
 | Gap [%]          | 4.02e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1018354 |
+| Objective value  | 2.1400000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [net12](https://miplib.zib.de/instance_details_net12.html) |
 
 
@@ -2334,6 +2641,8 @@ parallel = off
 | Gap [%]          | 2.46e+00 |
 | Solution status  | feasible |
 | LP iterations    | 65596 |
+| Objective value  | 2.4400000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [netdiversion](https://miplib.zib.de/instance_details_netdiversion.html) |
 
 
@@ -2349,6 +2658,8 @@ parallel = off
 | Gap [%]          | 2.16e+00 |
 | Solution status  | feasible |
 | LP iterations    | 422163 |
+| Objective value  | 2.3200000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [nexp-150-20-8-5](https://miplib.zib.de/instance_details_nexp-150-20-8-5.html) |
 
 
@@ -2364,6 +2675,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 46730 |
+| Objective value  | 0.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [ns1116954](https://miplib.zib.de/instance_details_ns1116954.html) |
 
 
@@ -2379,6 +2692,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 443000 |
+| Objective value  | 2.0000000000e+00 |
+| Model status     | Optimal |
 | MIPLIB Reference | [ns1208400](https://miplib.zib.de/instance_details_ns1208400.html) |
 
 
@@ -2394,6 +2709,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 91589 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ns1644855](https://miplib.zib.de/instance_details_ns1644855.html) |
 
 
@@ -2409,6 +2726,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 0 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ns1760995](https://miplib.zib.de/instance_details_ns1760995.html) |
 
 
@@ -2424,6 +2743,8 @@ parallel = off
 | Gap [%]          | 2.92e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2282054 |
+| Objective value  | 2.0622000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ns1830653](https://miplib.zib.de/instance_details_ns1830653.html) |
 
 
@@ -2439,6 +2760,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 70267 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ns1952667](https://miplib.zib.de/instance_details_ns1952667.html) |
 
 
@@ -2454,6 +2777,8 @@ parallel = off
 | Gap [%]          | 9.28e-03 |
 | Solution status  | feasible |
 | LP iterations    | 13552 |
+| Objective value  | 5.3905000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [nu25-pr12](https://miplib.zib.de/instance_details_nu25-pr12.html) |
 
 
@@ -2469,6 +2794,8 @@ parallel = off
 | Gap [%]          | 2.70e+01 |
 | Solution status  | feasible |
 | LP iterations    | 175644 |
+| Objective value  | 1.3700000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [nursesched-medium-hint03](https://miplib.zib.de/instance_details_nursesched-medium-hint03.html) |
 
 
@@ -2484,6 +2811,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5378 |
+| Objective value  | 5.8000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [nursesched-sprint02](https://miplib.zib.de/instance_details_nursesched-sprint02.html) |
 
 
@@ -2499,6 +2828,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4030 |
+| Objective value  | 1.6862000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [nw04](https://miplib.zib.de/instance_details_nw04.html) |
 
 
@@ -2514,6 +2845,8 @@ parallel = off
 | Gap [%]          | 4.81e+01 |
 | Solution status  | feasible |
 | LP iterations    | 89273 |
+| Objective value  | -3.1578000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [opm2-z10-s4](https://miplib.zib.de/instance_details_opm2-z10-s4.html) |
 
 
@@ -2529,6 +2862,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 2572 |
+| Objective value  | 1.5078000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [p200x1188c](https://miplib.zib.de/instance_details_p200x1188c.html) |
 
 
@@ -2544,6 +2879,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1343250 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [peg-solitaire-a3](https://miplib.zib.de/instance_details_peg-solitaire-a3.html) |
 
 
@@ -2559,6 +2896,8 @@ parallel = off
 | Gap [%]          | 9.96e-03 |
 | Solution status  | feasible |
 | LP iterations    | 57727 |
+| Objective value  | -8.6743426071e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [pg](https://miplib.zib.de/instance_details_pg.html) |
 
 
@@ -2574,6 +2913,8 @@ parallel = off
 | Gap [%]          | 9.99e-03 |
 | Solution status  | feasible |
 | LP iterations    | 922543 |
+| Objective value  | -1.4339353447e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [pg5_34](https://miplib.zib.de/instance_details_pg5_34.html) |
 
 
@@ -2589,6 +2930,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 338977 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [physiciansched3-3](https://miplib.zib.de/instance_details_physiciansched3-3.html) |
 
 
@@ -2604,6 +2947,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 41770 |
+| Objective value  | 4.9324000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [physiciansched6-2](https://miplib.zib.de/instance_details_physiciansched6-2.html) |
 
 
@@ -2619,6 +2964,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5335 |
+| Objective value  | 1.2505500000e+05 |
+| Model status     | Optimal |
 | MIPLIB Reference | [piperout-08](https://miplib.zib.de/instance_details_piperout-08.html) |
 
 
@@ -2634,6 +2981,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5743 |
+| Objective value  | 8.1240000000e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [piperout-27](https://miplib.zib.de/instance_details_piperout-27.html) |
 
 
@@ -2649,6 +2998,8 @@ parallel = off
 | Gap [%]          | 9.92e-03 |
 | Solution status  | feasible |
 | LP iterations    | 3759307 |
+| Objective value  | 1.1000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [pk1](https://miplib.zib.de/instance_details_pk1.html) |
 
 
@@ -2664,6 +3015,8 @@ parallel = off
 | Gap [%]          | 4.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 121459 |
+| Objective value  | 1.4990000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [proteindesign121hz512p9](https://miplib.zib.de/instance_details_proteindesign121hz512p9.html) |
 
 
@@ -2679,6 +3032,8 @@ parallel = off
 | Gap [%]          | 1.98e+00 |
 | Solution status  | feasible |
 | LP iterations    | 110233 |
+| Objective value  | 1.7670000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [proteindesign122trx11p8](https://miplib.zib.de/instance_details_proteindesign122trx11p8.html) |
 
 
@@ -2694,6 +3049,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 162005 |
+| Objective value  | 3.4000000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [qap10](https://miplib.zib.de/instance_details_qap10.html) |
 
 
@@ -2709,6 +3066,8 @@ parallel = off
 | Gap [%]          | 2.39e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1623655 |
+| Objective value  | 2.3093000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [radiationm18-12-05](https://miplib.zib.de/instance_details_radiationm18-12-05.html) |
 
 
@@ -2724,6 +3083,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 669288 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [radiationm40-10-02](https://miplib.zib.de/instance_details_radiationm40-10-02.html) |
 
 
@@ -2739,6 +3100,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 222414 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rail01](https://miplib.zib.de/instance_details_rail01.html) |
 
 
@@ -2754,6 +3117,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 344624 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rail02](https://miplib.zib.de/instance_details_rail02.html) |
 
 
@@ -2769,6 +3134,8 @@ parallel = off
 | Gap [%]          | 1.14e+00 |
 | Solution status  | feasible |
 | LP iterations    | 430237 |
+| Objective value  | 1.7500000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rail507](https://miplib.zib.de/instance_details_rail507.html) |
 
 
@@ -2784,6 +3151,8 @@ parallel = off
 | Gap [%]          | 2.25e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3360332 |
+| Objective value  | 3.7120000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [ran14x18-disj-8](https://miplib.zib.de/instance_details_ran14x18-disj-8.html) |
 
 
@@ -2799,6 +3168,8 @@ parallel = off
 | Gap [%]          | 9.99e+01 |
 | Solution status  | feasible |
 | LP iterations    | 683378 |
+| Objective value  | 1.6582948501e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rd-rplusc-21](https://miplib.zib.de/instance_details_rd-rplusc-21.html) |
 
 
@@ -2814,6 +3185,8 @@ parallel = off
 | Gap [%]          | 5.90e-01 |
 | Solution status  | feasible |
 | LP iterations    | 1146576 |
+| Objective value  | -3.6760124329e+07 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [reblock115](https://miplib.zib.de/instance_details_reblock115.html) |
 
 
@@ -2829,6 +3202,8 @@ parallel = off
 | Gap [%]          | 6.39e-03 |
 | Solution status  | feasible |
 | LP iterations    | 302949 |
+| Objective value  | 4.2300000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [rmatr100-p10](https://miplib.zib.de/instance_details_rmatr100-p10.html) |
 
 
@@ -2844,6 +3219,8 @@ parallel = off
 | Gap [%]          | 3.56e+01 |
 | Solution status  | feasible |
 | LP iterations    | 304107 |
+| Objective value  | 5.1160000000e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rmatr200-p5](https://miplib.zib.de/instance_details_rmatr200-p5.html) |
 
 
@@ -2859,6 +3236,8 @@ parallel = off
 | Gap [%]          | 8.37e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3099768 |
+| Objective value  | -6.0202030000e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rocI-4-11](https://miplib.zib.de/instance_details_rocI-4-11.html) |
 
 
@@ -2874,6 +3253,8 @@ parallel = off
 | Gap [%]          | 1.09e+02 |
 | Solution status  | feasible |
 | LP iterations    | 962517 |
+| Objective value  | -5.6611090473e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rocII-5-11](https://miplib.zib.de/instance_details_rocII-5-11.html) |
 
 
@@ -2889,6 +3270,8 @@ parallel = off
 | Gap [%]          | 3.88e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1661945 |
+| Objective value  | 2.1125000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [rococoB10-011000](https://miplib.zib.de/instance_details_rococoB10-011000.html) |
 
 
@@ -2904,6 +3287,8 @@ parallel = off
 | Gap [%]          | 8.73e-03 |
 | Solution status  | feasible |
 | LP iterations    | 1401756 |
+| Objective value  | 1.1460000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [rococoC10-001000](https://miplib.zib.de/instance_details_rococoC10-001000.html) |
 
 
@@ -2919,6 +3304,8 @@ parallel = off
 | Gap [%]          | 1.70e+01 |
 | Solution status  | feasible |
 | LP iterations    | 224253 |
+| Objective value  | -6.2675440360e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [roi2alpha3n4](https://miplib.zib.de/instance_details_roi2alpha3n4.html) |
 
 
@@ -2934,6 +3321,8 @@ parallel = off
 | Gap [%]          | 8.26e+01 |
 | Solution status  | feasible |
 | LP iterations    | 136801 |
+| Objective value  | -4.0301445380e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [roi5alpha10n8](https://miplib.zib.de/instance_details_roi5alpha10n8.html) |
 
 
@@ -2949,6 +3338,8 @@ parallel = off
 | Gap [%]          | 9.66e-03 |
 | Solution status  | feasible |
 | LP iterations    | 178564 |
+| Objective value  | 1.2890000000e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [roll3000](https://miplib.zib.de/instance_details_roll3000.html) |
 
 
@@ -2964,6 +3355,8 @@ parallel = off
 | Gap [%]          | 5.03e+01 |
 | Solution status  | feasible |
 | LP iterations    | 108344 |
+| Objective value  | -1.3900100972e-01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [s100](https://miplib.zib.de/instance_details_s100.html) |
 
 
@@ -2979,6 +3372,8 @@ parallel = off
 | Gap [%]          | 4.73e-01 |
 | Solution status  | feasible |
 | LP iterations    | 284214 |
+| Objective value  | -1.7174599921e-01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [s250r10](https://miplib.zib.de/instance_details_s250r10.html) |
 
 
@@ -2994,6 +3389,8 @@ parallel = off
 | Gap [%]          | 2.38e+02 |
 | Solution status  | feasible |
 | LP iterations    | 426762 |
+| Objective value  | 2.1000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [satellites2-40](https://miplib.zib.de/instance_details_satellites2-40.html) |
 
 
@@ -3009,6 +3406,8 @@ parallel = off
 | Gap [%]          | 5.26e+01 |
 | Solution status  | feasible |
 | LP iterations    | 540028 |
+| Objective value  | -1.9000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [satellites2-60-fs](https://miplib.zib.de/instance_details_satellites2-60-fs.html) |
 
 
@@ -3024,6 +3423,8 @@ parallel = off
 | Gap [%]          | 9.95e+01 |
 | Solution status  | feasible |
 | LP iterations    | 143407 |
+| Objective value  | 1.2720900000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [savsched1](https://miplib.zib.de/instance_details_savsched1.html) |
 
 
@@ -3039,6 +3440,8 @@ parallel = off
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 2525877 |
+| Objective value  | -2.3098650880e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [sct2](https://miplib.zib.de/instance_details_sct2.html) |
 
 
@@ -3054,6 +3457,8 @@ parallel = off
 | Gap [%]          | 3.29e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1084110 |
+| Objective value  | 4.2600000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [seymour](https://miplib.zib.de/instance_details_seymour.html) |
 
 
@@ -3069,6 +3474,8 @@ parallel = off
 | Gap [%]          | 9.92e-03 |
 | Solution status  | feasible |
 | LP iterations    | 470740 |
+| Objective value  | 4.1076370139e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [seymour1](https://miplib.zib.de/instance_details_seymour1.html) |
 
 
@@ -3084,6 +3491,8 @@ parallel = off
 | Gap [%]          | 1.96e+01 |
 | Solution status  | feasible |
 | LP iterations    | 137347 |
+| Objective value  | 9.6317633001e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [sing326](https://miplib.zib.de/instance_details_sing326.html) |
 
 
@@ -3099,6 +3508,8 @@ parallel = off
 | Gap [%]          | 4.33e-01 |
 | Solution status  | feasible |
 | LP iterations    | 145682 |
+| Objective value  | 8.1521517905e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [sing44](https://miplib.zib.de/instance_details_sing44.html) |
 
 
@@ -3114,6 +3525,8 @@ parallel = off
 | Gap [%]          | 6.03e-03 |
 | Solution status  | feasible |
 | LP iterations    | 65055 |
+| Objective value  | 5.8681949318e+08 |
+| Model status     | Optimal |
 | MIPLIB Reference | [snp-02-004-104](https://miplib.zib.de/instance_details_snp-02-004-104.html) |
 
 
@@ -3129,6 +3542,8 @@ parallel = off
 | Gap [%]          | 1.85e+02 |
 | Solution status  | feasible |
 | LP iterations    | 79746 |
+| Objective value  | -1.3000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [sorrell3](https://miplib.zib.de/instance_details_sorrell3.html) |
 
 
@@ -3144,6 +3559,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 246 |
+| Objective value  | 6.9000000000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [sp150x300d](https://miplib.zib.de/instance_details_sp150x300d.html) |
 
 
@@ -3159,6 +3576,8 @@ parallel = off
 | Gap [%]          | 2.62e+00 |
 | Solution status  | feasible |
 | LP iterations    | 370293 |
+| Objective value  | 6.7431311296e+08 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [sp97ar](https://miplib.zib.de/instance_details_sp97ar.html) |
 
 
@@ -3174,6 +3593,8 @@ parallel = off
 | Gap [%]          | 1.42e+00 |
 | Solution status  | feasible |
 | LP iterations    | 305488 |
+| Objective value  | 5.3500380880e+08 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [sp98ar](https://miplib.zib.de/instance_details_sp98ar.html) |
 
 
@@ -3189,6 +3610,8 @@ parallel = off
 | Gap [%]          | 3.88e+02 |
 | Solution status  | feasible |
 | LP iterations    | 7311 |
+| Objective value  | -3.3700000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [splice1k1](https://miplib.zib.de/instance_details_splice1k1.html) |
 
 
@@ -3204,6 +3627,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 10250 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [square41](https://miplib.zib.de/instance_details_square41.html) |
 
 
@@ -3219,6 +3644,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 8367 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [square47](https://miplib.zib.de/instance_details_square47.html) |
 
 
@@ -3234,6 +3661,8 @@ parallel = off
 | Gap [%]          | 8.10e+01 |
 | Solution status  | feasible |
 | LP iterations    | 186271 |
+| Objective value  | 2.1000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase10](https://miplib.zib.de/instance_details_supportcase10.html) |
 
 
@@ -3249,6 +3678,8 @@ parallel = off
 | Gap [%]          | 3.79e-01 |
 | Solution status  | feasible |
 | LP iterations    | 492538 |
+| Objective value  | -7.5309911475e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase12](https://miplib.zib.de/instance_details_supportcase12.html) |
 
 
@@ -3264,6 +3695,8 @@ parallel = off
 | Gap [%]          | 2.04e+00 |
 | Solution status  | feasible |
 | LP iterations    | 782056 |
+| Objective value  | 4.9000000000e+01 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase18](https://miplib.zib.de/instance_details_supportcase18.html) |
 
 
@@ -3279,6 +3712,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 142181 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase19](https://miplib.zib.de/instance_details_supportcase19.html) |
 
 
@@ -3294,6 +3729,8 @@ parallel = off
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 27451 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase22](https://miplib.zib.de/instance_details_supportcase22.html) |
 
 
@@ -3309,6 +3746,8 @@ parallel = off
 | Gap [%]          | 1.12e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3549654 |
+| Objective value  | 1.7451241823e+03 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase26](https://miplib.zib.de/instance_details_supportcase26.html) |
 
 
@@ -3324,6 +3763,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 240689 |
+| Objective value  | -3.4500000000e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [supportcase33](https://miplib.zib.de/instance_details_supportcase33.html) |
 
 
@@ -3339,6 +3780,8 @@ parallel = off
 | Gap [%]          | 3.47e+00 |
 | Solution status  | feasible |
 | LP iterations    | 398390 |
+| Objective value  | 2.4393925691e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase40](https://miplib.zib.de/instance_details_supportcase40.html) |
 
 
@@ -3354,6 +3797,8 @@ parallel = off
 | Gap [%]          | 3.11e+00 |
 | Solution status  | feasible |
 | LP iterations    | 161261 |
+| Objective value  | 8.0000000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase42](https://miplib.zib.de/instance_details_supportcase42.html) |
 
 
@@ -3369,6 +3814,8 @@ parallel = off
 | Gap [%]          | 1.29e+01 |
 | Solution status  | feasible |
 | LP iterations    | 181205 |
+| Objective value  | 5.1924621020e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [supportcase6](https://miplib.zib.de/instance_details_supportcase6.html) |
 
 
@@ -3384,6 +3831,8 @@ parallel = off
 | Gap [%]          | 7.46e-03 |
 | Solution status  | feasible |
 | LP iterations    | 118411 |
+| Objective value  | -1.1322231708e+03 |
+| Model status     | Optimal |
 | MIPLIB Reference | [supportcase7](https://miplib.zib.de/instance_details_supportcase7.html) |
 
 
@@ -3399,6 +3848,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 35725 |
+| Objective value  | 3.7907129575e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [swath1](https://miplib.zib.de/instance_details_swath1.html) |
 
 
@@ -3414,6 +3865,8 @@ parallel = off
 | Gap [%]          | 8.64e-03 |
 | Solution status  | feasible |
 | LP iterations    | 310334 |
+| Objective value  | 3.9776134365e+02 |
+| Model status     | Optimal |
 | MIPLIB Reference | [swath3](https://miplib.zib.de/instance_details_swath3.html) |
 
 
@@ -3429,6 +3882,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 300596 |
+| Objective value  | 2.4163194444e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [tbfp-network](https://miplib.zib.de/instance_details_tbfp-network.html) |
 
 
@@ -3444,6 +3899,8 @@ parallel = off
 | Gap [%]          | 1.88e+01 |
 | Solution status  | feasible |
 | LP iterations    | 49937 |
+| Objective value  | 4.0819000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [thor50dday](https://miplib.zib.de/instance_details_thor50dday.html) |
 
 
@@ -3459,6 +3916,8 @@ parallel = off
 | Gap [%]          | 9.30e-03 |
 | Solution status  | feasible |
 | LP iterations    | 987387 |
+| Objective value  | 7.6477400000e+05 |
+| Model status     | Optimal |
 | MIPLIB Reference | [timtab1](https://miplib.zib.de/instance_details_timtab1.html) |
 
 
@@ -3474,6 +3933,8 @@ parallel = off
 | Gap [%]          | 6.74e-02 |
 | Solution status  | feasible |
 | LP iterations    | 1306894 |
+| Objective value  | 1.3059900000e+05 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [tr12-30](https://miplib.zib.de/instance_details_tr12-30.html) |
 
 
@@ -3489,6 +3950,8 @@ parallel = off
 | Gap [%]          | 8.97e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2163221 |
+| Objective value  | 7.2630000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [traininstance2](https://miplib.zib.de/instance_details_traininstance2.html) |
 
 
@@ -3504,6 +3967,8 @@ parallel = off
 | Gap [%]          | 8.28e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2559261 |
+| Objective value  | 2.8290000000e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [traininstance6](https://miplib.zib.de/instance_details_traininstance6.html) |
 
 
@@ -3519,6 +3984,8 @@ parallel = off
 | Gap [%]          | 5.49e-01 |
 | Solution status  | feasible |
 | LP iterations    | 762840 |
+| Objective value  | 5.2115250003e+06 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [trento1](https://miplib.zib.de/instance_details_trento1.html) |
 
 
@@ -3534,6 +4001,8 @@ parallel = off
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 85372 |
+| Objective value  | 2.2868100000e+01 |
+| Model status     | Optimal |
 | MIPLIB Reference | [triptim1](https://miplib.zib.de/instance_details_triptim1.html) |
 
 
@@ -3549,6 +4018,8 @@ parallel = off
 | Gap [%]          | 3.14e-04 |
 | Solution status  | feasible |
 | LP iterations    | 36619 |
+| Objective value  | 1.1507405062e+04 |
+| Model status     | Optimal |
 | MIPLIB Reference | [uccase12](https://miplib.zib.de/instance_details_uccase12.html) |
 
 
@@ -3564,6 +4035,8 @@ parallel = off
 | Gap [%]          | 5.95e+00 |
 | Solution status  | feasible |
 | LP iterations    | 147096 |
+| Objective value  | 1.1651609888e+04 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [uccase9](https://miplib.zib.de/instance_details_uccase9.html) |
 
 
@@ -3579,6 +4052,8 @@ parallel = off
 | Gap [%]          | 1.06e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1975289 |
+| Objective value  | 3.2200000000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [uct-subprob](https://miplib.zib.de/instance_details_uct-subprob.html) |
 
 
@@ -3594,6 +4069,8 @@ parallel = off
 | Gap [%]          | 9.97e-03 |
 | Solution status  | feasible |
 | LP iterations    | 306402 |
+| Objective value  | 1.9635617199e+07 |
+| Model status     | Optimal |
 | MIPLIB Reference | [unitcal_7](https://miplib.zib.de/instance_details_unitcal_7.html) |
 
 
@@ -3609,6 +4086,8 @@ parallel = off
 | Gap [%]          | 5.54e+00 |
 | Solution status  | feasible |
 | LP iterations    | 174747 |
+| Objective value  | -1.4646875000e+02 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [var-smallemery-m6j6](https://miplib.zib.de/instance_details_var-smallemery-m6j6.html) |
 
 
@@ -3624,8 +4103,9 @@ parallel = off
 | Gap [%]          | 1.25e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3563071 |
+| Objective value  | -8.0000000000e+00 |
+| Model status     | Time limit reached |
 | MIPLIB Reference | [wachplan](https://miplib.zib.de/instance_details_wachplan.html) |
-
 
 
 
