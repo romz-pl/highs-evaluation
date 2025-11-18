@@ -39,8 +39,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 85523 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.0200000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 104.59 |
 | MIPLIB Reference | [30n20b8](https://miplib.zib.de/instance_details_30n20b8.html) |
 
 
@@ -56,8 +58,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.02e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1716700 |
+| B&B Tree Nodes   | 11440 |
 | Objective value  | 3.3736699882e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [50v-10](https://miplib.zib.de/instance_details_50v-10.html) |
 
 
@@ -73,8 +77,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.06e+00 |
 | Solution status  | feasible |
 | LP iterations    | 513476 |
+| B&B Tree Nodes   | 7913 |
 | Objective value  | 2.6900000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [CMS750_4](https://miplib.zib.de/instance_details_CMS750_4.html) |
 
 
@@ -90,8 +96,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 440670 |
+| B&B Tree Nodes   | 227 |
 | Objective value  | 1.2770000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.23 |
 | MIPLIB Reference | [academictimetablesmall](https://miplib.zib.de/instance_details_academictimetablesmall.html) |
 
 
@@ -107,8 +115,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 136628 |
+| B&B Tree Nodes   | 31 |
 | Objective value  | 2.6374000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 28.98 |
 | MIPLIB Reference | [air05](https://miplib.zib.de/instance_details_air05.html) |
 
 
@@ -124,8 +134,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 86764 |
+| B&B Tree Nodes   | 4668 |
 | Objective value  | -3.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 22.18 |
 | MIPLIB Reference | [app1-1](https://miplib.zib.de/instance_details_app1-1.html) |
 
 
@@ -141,8 +153,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 327857 |
+| B&B Tree Nodes   | 1265 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [app1-2](https://miplib.zib.de/instance_details_app1-2.html) |
 
 
@@ -158,8 +172,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.66e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4173368 |
+| B&B Tree Nodes   | 185841 |
 | Objective value  | 2.1200000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [assign1-5-8](https://miplib.zib.de/instance_details_assign1-5-8.html) |
 
 
@@ -175,8 +191,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.28e+01 |
 | Solution status  | feasible |
 | LP iterations    | 443163 |
+| B&B Tree Nodes   | 202 |
 | Objective value  | 9.4009818706e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.12 |
 | MIPLIB Reference | [atlanta-ip](https://miplib.zib.de/instance_details_atlanta-ip.html) |
 
 
@@ -192,8 +210,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.68e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1235821 |
+| B&B Tree Nodes   | 4296 |
 | Objective value  | 2.5245500000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [b1c1s1](https://miplib.zib.de/instance_details_b1c1s1.html) |
 
 
@@ -209,8 +229,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.55e-01 |
 | Solution status  | feasible |
 | LP iterations    | 209275 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -3.5672242700e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.16 |
 | MIPLIB Reference | [bab2](https://miplib.zib.de/instance_details_bab2.html) |
 
 
@@ -226,8 +248,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 190525 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -2.8086172900e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.50 |
 | MIPLIB Reference | [bab6](https://miplib.zib.de/instance_details_bab6.html) |
 
 
@@ -243,8 +267,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 145443 |
+| B&B Tree Nodes   | 480 |
 | Objective value  | 7.5400000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 25.20 |
 | MIPLIB Reference | [beasleyC3](https://miplib.zib.de/instance_details_beasleyC3.html) |
 
 
@@ -260,8 +286,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.97e-03 |
 | Solution status  | feasible |
 | LP iterations    | 183211 |
+| B&B Tree Nodes   | 2402 |
 | Objective value  | 6.7422000240e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 31.79 |
 | MIPLIB Reference | [binkar10_1](https://miplib.zib.de/instance_details_binkar10_1.html) |
 
 
@@ -277,8 +305,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 3741 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 307.88 |
 | MIPLIB Reference | [blp-ar98](https://miplib.zib.de/instance_details_blp-ar98.html) |
 
 
@@ -294,8 +324,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.98e+00 |
 | Solution status  | feasible |
 | LP iterations    | 232289 |
+| B&B Tree Nodes   | 1390 |
 | Objective value  | 4.5351997952e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [blp-ic98](https://miplib.zib.de/instance_details_blp-ic98.html) |
 
 
@@ -311,8 +343,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1924015 |
+| B&B Tree Nodes   | 11738 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [bnatt400](https://miplib.zib.de/instance_details_bnatt400.html) |
 
 
@@ -328,8 +362,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1484384 |
+| B&B Tree Nodes   | 6440 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [bnatt500](https://miplib.zib.de/instance_details_bnatt500.html) |
 
 
@@ -345,8 +381,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.89e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5029537 |
+| B&B Tree Nodes   | 41911 |
 | Objective value  | 5.3000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [bppc4-08](https://miplib.zib.de/instance_details_bppc4-08.html) |
 
 
@@ -362,8 +400,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.15e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1406473 |
+| B&B Tree Nodes   | 427 |
 | Objective value  | 1.3000000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [brazil3](https://miplib.zib.de/instance_details_brazil3.html) |
 
 
@@ -379,8 +419,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.08e+00 |
 | Solution status  | feasible |
 | LP iterations    | 258351 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.3975380958e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 407.14 |
 | MIPLIB Reference | [buildingenergy](https://miplib.zib.de/instance_details_buildingenergy.html) |
 
 
@@ -396,8 +438,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 164984 |
+| B&B Tree Nodes   | 2583 |
 | Objective value  | 0.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 72.80 |
 | MIPLIB Reference | [cbs-cta](https://miplib.zib.de/instance_details_cbs-cta.html) |
 
 
@@ -413,8 +457,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 81435 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 4.0000000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 308.61 |
 | MIPLIB Reference | [chromaticindex1024-7](https://miplib.zib.de/instance_details_chromaticindex1024-7.html) |
 
 
@@ -430,8 +476,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 41084 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 4.0000000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 315.70 |
 | MIPLIB Reference | [chromaticindex512-7](https://miplib.zib.de/instance_details_chromaticindex512-7.html) |
 
 
@@ -447,8 +495,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.96e+00 |
 | Solution status  | feasible |
 | LP iterations    | 599705 |
+| B&B Tree Nodes   | 1777 |
 | Objective value  | 5.7654167323e+07 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.14 |
 | MIPLIB Reference | [cmflsp50-24-8-8](https://miplib.zib.de/instance_details_cmflsp50-24-8-8.html) |
 
 
@@ -464,8 +514,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.28e+01 |
 | Solution status  | feasible |
 | LP iterations    | 51318 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.8793083700e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 366.96 |
 | MIPLIB Reference | [co-100](https://miplib.zib.de/instance_details_co-100.html) |
 
 
@@ -481,8 +533,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 229137 |
+| B&B Tree Nodes   | 103 |
 | Objective value  | -1.2000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 88.97 |
 | MIPLIB Reference | [cod105](https://miplib.zib.de/instance_details_cod105.html) |
 
 
@@ -498,8 +552,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.06e+01 |
 | Solution status  | feasible |
 | LP iterations    | 438410 |
+| B&B Tree Nodes   | 345 |
 | Objective value  | 6.4000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.31 |
 | MIPLIB Reference | [comp07-2idx](https://miplib.zib.de/instance_details_comp07-2idx.html) |
 
 
@@ -515,8 +571,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.87e+01 |
 | Solution status  | feasible |
 | LP iterations    | 684476 |
+| B&B Tree Nodes   | 1202 |
 | Objective value  | 2.0700000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [comp21-2idx](https://miplib.zib.de/instance_details_comp21-2idx.html) |
 
 
@@ -532,8 +590,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.17e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1241897 |
+| B&B Tree Nodes   | 7323 |
 | Objective value  | 2.6515101060e+07 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [cost266-UUE](https://miplib.zib.de/instance_details_cost266-UUE.html) |
 
 
@@ -549,8 +609,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 251361 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [cryptanalysiskb128n5obj14](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj14.html) |
 
 
@@ -566,8 +628,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 290731 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.07 |
 | MIPLIB Reference | [cryptanalysiskb128n5obj16](https://miplib.zib.de/instance_details_cryptanalysiskb128n5obj16.html) |
 
 
@@ -583,8 +647,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.13e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2746792 |
+| B&B Tree Nodes   | 26061 |
 | Objective value  | 3.6300000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [csched007](https://miplib.zib.de/instance_details_csched007.html) |
 
 
@@ -600,8 +666,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.78e-01 |
 | Solution status  | feasible |
 | LP iterations    | 4964899 |
+| B&B Tree Nodes   | 22900 |
 | Objective value  | 1.7300000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [csched008](https://miplib.zib.de/instance_details_csched008.html) |
 
 
@@ -617,8 +685,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.50e+01 |
 | Solution status  | feasible |
 | LP iterations    | 551963 |
+| B&B Tree Nodes   | 724 |
 | Objective value  | -9.6000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.25 |
 | MIPLIB Reference | [cvs16r128-89](https://miplib.zib.de/instance_details_cvs16r128-89.html) |
 
 
@@ -634,8 +704,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.01e-03 |
 | Solution status  | feasible |
 | LP iterations    | 115849 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 5.7634463303e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 59.61 |
 | MIPLIB Reference | [dano3_3](https://miplib.zib.de/instance_details_dano3_3.html) |
 
 
@@ -651,8 +723,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.85e-02 |
 | Solution status  | feasible |
 | LP iterations    | 590898 |
+| B&B Tree Nodes   | 38 |
 | Objective value  | 5.7692491596e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [dano3_5](https://miplib.zib.de/instance_details_dano3_5.html) |
 
 
@@ -668,8 +742,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 8373 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -1.6000000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 2.22 |
 | MIPLIB Reference | [decomp2](https://miplib.zib.de/instance_details_decomp2.html) |
 
 
@@ -685,8 +761,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1689 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.0333387407e+05 |
 | Model status     | Optimal |
+| Run time [s]     | 0.48 |
 | MIPLIB Reference | [drayage-100-23](https://miplib.zib.de/instance_details_drayage-100-23.html) |
 
 
@@ -702,8 +780,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 6726 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.0128264702e+05 |
 | Model status     | Optimal |
+| Run time [s]     | 1.41 |
 | MIPLIB Reference | [drayage-25-23](https://miplib.zib.de/instance_details_drayage-25-23.html) |
 
 
@@ -719,8 +799,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.69e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1247010 |
+| B&B Tree Nodes   | 7696 |
 | Objective value  | 3.9618281338e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [dws008-01](https://miplib.zib.de/instance_details_dws008-01.html) |
 
 
@@ -736,8 +818,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 168031 |
+| B&B Tree Nodes   | 400 |
 | Objective value  | 9.3400791600e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 75.33 |
 | MIPLIB Reference | [eil33-2](https://miplib.zib.de/instance_details_eil33-2.html) |
 
 
@@ -753,8 +837,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.24e+01 |
 | Solution status  | feasible |
 | LP iterations    | 990 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 2.9116006220e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 321.16 |
 | MIPLIB Reference | [eilA101-2](https://miplib.zib.de/instance_details_eilA101-2.html) |
 
 
@@ -770,8 +856,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 200247 |
+| B&B Tree Nodes   | 4058 |
 | Objective value  | 3.7000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 14.96 |
 | MIPLIB Reference | [enlight_hard](https://miplib.zib.de/instance_details_enlight_hard.html) |
 
 
@@ -787,8 +875,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 0 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.0000000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 51.89 |
 | MIPLIB Reference | [ex10](https://miplib.zib.de/instance_details_ex10.html) |
 
 
@@ -804,8 +894,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 0 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 8.1000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 2.87 |
 | MIPLIB Reference | [ex9](https://miplib.zib.de/instance_details_ex9.html) |
 
 
@@ -821,8 +913,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.02e-03 |
 | Solution status  | feasible |
 | LP iterations    | 15699 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 6.5887000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 2.82 |
 | MIPLIB Reference | [exp-1-500-5-5](https://miplib.zib.de/instance_details_exp-1-500-5-5.html) |
 
 
@@ -838,8 +932,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.75e-01 |
 | Solution status  | feasible |
 | LP iterations    | 569881 |
+| B&B Tree Nodes   | 1113 |
 | Objective value  | 1.7400000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.20 |
 | MIPLIB Reference | [fast0507](https://miplib.zib.de/instance_details_fast0507.html) |
 
 
@@ -855,8 +951,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.85e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3332062 |
+| B&B Tree Nodes   | 26587 |
 | Objective value  | 2.3600000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [fastxgemm-n2r6s0t2](https://miplib.zib.de/instance_details_fastxgemm-n2r6s0t2.html) |
 
 
@@ -872,8 +970,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 6088383 |
+| B&B Tree Nodes   | 266691 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [fhnw-binpack4-4](https://miplib.zib.de/instance_details_fhnw-binpack4-4.html) |
 
 
@@ -889,8 +989,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1617279 |
+| B&B Tree Nodes   | 13370 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [fhnw-binpack4-48](https://miplib.zib.de/instance_details_fhnw-binpack4-48.html) |
 
 
@@ -906,8 +1008,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 24032 |
+| B&B Tree Nodes   | 202 |
 | Objective value  | 1.3800000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 24.40 |
 | MIPLIB Reference | [fiball](https://miplib.zib.de/instance_details_fiball.html) |
 
 
@@ -923,8 +1027,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.26e-01 |
 | Solution status  | feasible |
 | LP iterations    | 5431817 |
+| B&B Tree Nodes   | 982839 |
 | Objective value  | -4.7754008521e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [gen-ip002](https://miplib.zib.de/instance_details_gen-ip002.html) |
 
 
@@ -940,8 +1046,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.30e-01 |
 | Solution status  | feasible |
 | LP iterations    | 6688434 |
+| B&B Tree Nodes   | 1583386 |
 | Objective value  | 6.8491468526e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [gen-ip054](https://miplib.zib.de/instance_details_gen-ip054.html) |
 
 
@@ -957,8 +1065,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 8945 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 738.99 |
 | MIPLIB Reference | [germanrr](https://miplib.zib.de/instance_details_germanrr.html) |
 
 
@@ -974,8 +1084,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 117152 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.09 |
 | MIPLIB Reference | [gfd-schedulen180f7d50m30k18](https://miplib.zib.de/instance_details_gfd-schedulen180f7d50m30k18.html) |
 
 
@@ -991,8 +1103,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.04e+01 |
 | Solution status  | feasible |
 | LP iterations    | 772380 |
+| B&B Tree Nodes   | 6251 |
 | Objective value  | 2.3000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [glass-sc](https://miplib.zib.de/instance_details_glass-sc.html) |
 
 
@@ -1008,8 +1122,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.34e+01 |
 | Solution status  | feasible |
 | LP iterations    | 5657512 |
+| B&B Tree Nodes   | 173500 |
 | Objective value  | 1.5000146000e+09 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [glass4](https://miplib.zib.de/instance_details_glass4.html) |
 
 
@@ -1025,8 +1141,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.53e-02 |
 | Solution status  | feasible |
 | LP iterations    | 4195535 |
+| B&B Tree Nodes   | 66350 |
 | Objective value  | -2.4062310645e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [gmu-35-40](https://miplib.zib.de/instance_details_gmu-35-40.html) |
 
 
@@ -1042,8 +1160,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.87e-02 |
 | Solution status  | feasible |
 | LP iterations    | 3266591 |
+| B&B Tree Nodes   | 78355 |
 | Objective value  | -2.6067855003e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [gmu-35-50](https://miplib.zib.de/instance_details_gmu-35-50.html) |
 
 
@@ -1059,8 +1179,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.22e+02 |
 | Solution status  | feasible |
 | LP iterations    | 1276636 |
+| B&B Tree Nodes   | 970 |
 | Objective value  | -9.0000000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [graph20-20-1rand](https://miplib.zib.de/instance_details_graph20-20-1rand.html) |
 
 
@@ -1076,8 +1198,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.40e+01 |
 | Solution status  | feasible |
 | LP iterations    | 4378455 |
+| B&B Tree Nodes   | 128517 |
 | Objective value  | 1.9686000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [graphdraw-domain](https://miplib.zib.de/instance_details_graphdraw-domain.html) |
 
 
@@ -1093,8 +1217,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.93e-03 |
 | Solution status  | feasible |
 | LP iterations    | 44499 |
+| B&B Tree Nodes   | 19 |
 | Objective value  | 6.3820990500e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 14.61 |
 | MIPLIB Reference | [h80x6320d](https://miplib.zib.de/instance_details_h80x6320d.html) |
 
 
@@ -1110,8 +1236,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 173415 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 1.6092000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [highschool1-aigio](https://miplib.zib.de/instance_details_highschool1-aigio.html) |
 
 
@@ -1127,8 +1255,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3014 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -2.8510000000e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 11.73 |
 | MIPLIB Reference | [hypothyroid-k1](https://miplib.zib.de/instance_details_hypothyroid-k1.html) |
 
 
@@ -1144,8 +1274,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.86e-01 |
 | Solution status  | feasible |
 | LP iterations    | 2717780 |
+| B&B Tree Nodes   | 35845 |
 | Objective value  | 3.9430000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [ic97_potential](https://miplib.zib.de/instance_details_ic97_potential.html) |
 
 
@@ -1161,8 +1293,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.74e-01 |
 | Solution status  | feasible |
 | LP iterations    | 1458337 |
+| B&B Tree Nodes   | 15655 |
 | Objective value  | 6.3880000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [icir97_tension](https://miplib.zib.de/instance_details_icir97_tension.html) |
 
 
@@ -1178,8 +1312,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.29e+00 |
 | Solution status  | feasible |
 | LP iterations    | 189359 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | 3.8165085561e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.39 |
 | MIPLIB Reference | [irish-electricity](https://miplib.zib.de/instance_details_irish-electricity.html) |
 
 
@@ -1195,8 +1331,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.81e-03 |
 | Solution status  | feasible |
 | LP iterations    | 4761 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.2159492836e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 21.93 |
 | MIPLIB Reference | [irp](https://miplib.zib.de/instance_details_irp.html) |
 
 
@@ -1212,8 +1350,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.08e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1708722 |
+| B&B Tree Nodes   | 839 |
 | Objective value  | 2.0783035499e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [istanbul-no-cutoff](https://miplib.zib.de/instance_details_istanbul-no-cutoff.html) |
 
 
@@ -1229,8 +1369,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.38e+01 |
 | Solution status  | feasible |
 | LP iterations    | 7705 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -2.2280000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.07 |
 | MIPLIB Reference | [k1mushroom](https://miplib.zib.de/instance_details_k1mushroom.html) |
 
 
@@ -1246,8 +1388,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 883730 |
+| B&B Tree Nodes   | 4738 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [lectsched-5-obj](https://miplib.zib.de/instance_details_lectsched-5-obj.html) |
 
 
@@ -1263,8 +1407,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.73e+00 |
 | Solution status  | feasible |
 | LP iterations    | 271845 |
+| B&B Tree Nodes   | 1800 |
 | Objective value  | 4.1664594048e+08 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [leo1](https://miplib.zib.de/instance_details_leo1.html) |
 
 
@@ -1280,8 +1426,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.67e+00 |
 | Solution status  | feasible |
 | LP iterations    | 293600 |
+| B&B Tree Nodes   | 3096 |
 | Objective value  | 4.1813429616e+08 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.13 |
 | MIPLIB Reference | [leo2](https://miplib.zib.de/instance_details_leo2.html) |
 
 
@@ -1297,8 +1445,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.66e+00 |
 | Solution status  | feasible |
 | LP iterations    | 541973 |
+| B&B Tree Nodes   | 2388 |
 | Objective value  | 1.4894170000e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [lotsize](https://miplib.zib.de/instance_details_lotsize.html) |
 
 
@@ -1314,8 +1464,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 3866473 |
+| B&B Tree Nodes   | 403602 |
 | Objective value  | 5.4199999989e-02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [mad](https://miplib.zib.de/instance_details_mad.html) |
 
 
@@ -1331,8 +1483,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.76e+01 |
 | Solution status  | feasible |
 | LP iterations    | 489502 |
+| B&B Tree Nodes   | 145 |
 | Objective value  | -4.5400000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.04 |
 | MIPLIB Reference | [map10](https://miplib.zib.de/instance_details_map10.html) |
 
 
@@ -1348,8 +1502,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.98e+02 |
 | Solution status  | feasible |
 | LP iterations    | 465350 |
+| B&B Tree Nodes   | 109 |
 | Objective value  | -5.6000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [map16715-04](https://miplib.zib.de/instance_details_map16715-04.html) |
 
 
@@ -1365,8 +1521,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 3443204 |
+| B&B Tree Nodes   | 502471 |
 | Objective value  | 2.8000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [markshare2](https://miplib.zib.de/instance_details_markshare2.html) |
 
 
@@ -1382,8 +1540,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3249045 |
+| B&B Tree Nodes   | 1210834 |
 | Objective value  | 1.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 159.43 |
 | MIPLIB Reference | [markshare_4_0](https://miplib.zib.de/instance_details_markshare_4_0.html) |
 
 
@@ -1399,8 +1559,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.43e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3625195 |
+| B&B Tree Nodes   | 481817 |
 | Objective value  | 1.2163055188e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [mas74](https://miplib.zib.de/instance_details_mas74.html) |
 
 
@@ -1416,8 +1578,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 2314385 |
+| B&B Tree Nodes   | 331932 |
 | Objective value  | 4.0005054141e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 152.06 |
 | MIPLIB Reference | [mas76](https://miplib.zib.de/instance_details_mas76.html) |
 
 
@@ -1433,8 +1597,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.56e-03 |
 | Solution status  | feasible |
 | LP iterations    | 133748 |
+| B&B Tree Nodes   | 493 |
 | Objective value  | 1.1689000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 44.15 |
 | MIPLIB Reference | [mc11](https://miplib.zib.de/instance_details_mc11.html) |
 
 
@@ -1450,8 +1616,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.51e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1490393 |
+| B&B Tree Nodes   | 13919 |
 | Objective value  | 2.1192000000e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [mcsched](https://miplib.zib.de/instance_details_mcsched.html) |
 
 
@@ -1467,8 +1635,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.70e-03 |
 | Solution status  | feasible |
 | LP iterations    | 116194 |
+| B&B Tree Nodes   | 2459 |
 | Objective value  | -5.2301000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 9.06 |
 | MIPLIB Reference | [mik-250-20-75-4](https://miplib.zib.de/instance_details_mik-250-20-75-4.html) |
 
 
@@ -1484,8 +1654,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.31e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1334434 |
+| B&B Tree Nodes   | 10208 |
 | Objective value  | 3.2911158005e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [milo-v12-6-r2-40-1](https://miplib.zib.de/instance_details_milo-v12-6-r2-40-1.html) |
 
 
@@ -1501,8 +1673,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.11e+01 |
 | Solution status  | feasible |
 | LP iterations    | 520043 |
+| B&B Tree Nodes   | 896 |
 | Objective value  | 1.2197714063e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [momentum1](https://miplib.zib.de/instance_details_momentum1.html) |
 
 
@@ -1518,8 +1692,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.80e-03 |
 | Solution status  | feasible |
 | LP iterations    | 259480 |
+| B&B Tree Nodes   | 3671 |
 | Objective value  | 5.5333761232e-02 |
 | Model status     | Optimal |
+| Run time [s]     | 260.03 |
 | MIPLIB Reference | [mushroom-best](https://miplib.zib.de/instance_details_mushroom-best.html) |
 
 
@@ -1535,8 +1711,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.21e-03 |
 | Solution status  | feasible |
 | LP iterations    | 92729 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -2.1718000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 49.44 |
 | MIPLIB Reference | [mzzv11](https://miplib.zib.de/instance_details_mzzv11.html) |
 
 
@@ -1552,8 +1730,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.74e-03 |
 | Solution status  | feasible |
 | LP iterations    | 85101 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -2.0540000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 37.34 |
 | MIPLIB Reference | [mzzv42z](https://miplib.zib.de/instance_details_mzzv42z.html) |
 
 
@@ -1569,8 +1749,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 128768 |
+| B&B Tree Nodes   | 52 |
 | Objective value  | 5.2200000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 48.10 |
 | MIPLIB Reference | [n2seq36q](https://miplib.zib.de/instance_details_n2seq36q.html) |
 
 
@@ -1586,8 +1768,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.95e+00 |
 | Solution status  | feasible |
 | LP iterations    | 223223 |
+| B&B Tree Nodes   | 2038 |
 | Objective value  | 1.3100000000e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [n3div36](https://miplib.zib.de/instance_details_n3div36.html) |
 
 
@@ -1603,8 +1787,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 171512 |
+| B&B Tree Nodes   | 296 |
 | Objective value  | 8.1050000000e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 28.32 |
 | MIPLIB Reference | [n5-3](https://miplib.zib.de/instance_details_n5-3.html) |
 
 
@@ -1620,8 +1806,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5835 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.6100000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 16.04 |
 | MIPLIB Reference | [neos-1122047](https://miplib.zib.de/instance_details_neos-1122047.html) |
 
 
@@ -1637,8 +1825,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 225597 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -3.0900000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 177.85 |
 | MIPLIB Reference | [neos-1171448](https://miplib.zib.de/instance_details_neos-1171448.html) |
 
 
@@ -1654,8 +1844,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.09e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1241135 |
+| B&B Tree Nodes   | 2733 |
 | Objective value  | -1.9100000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.04 |
 | MIPLIB Reference | [neos-1171737](https://miplib.zib.de/instance_details_neos-1171737.html) |
 
 
@@ -1671,8 +1863,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 615583 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.33 |
 | MIPLIB Reference | [neos-1354092](https://miplib.zib.de/instance_details_neos-1354092.html) |
 
 
@@ -1688,8 +1882,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.62e-03 |
 | Solution status  | feasible |
 | LP iterations    | 288060 |
+| B&B Tree Nodes   | 888 |
 | Objective value  | -1.7783000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 59.04 |
 | MIPLIB Reference | [neos-1445765](https://miplib.zib.de/instance_details_neos-1445765.html) |
 
 
@@ -1705,8 +1901,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.26e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1220669 |
+| B&B Tree Nodes   | 12786 |
 | Objective value  | 1.7700000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-1456979](https://miplib.zib.de/instance_details_neos-1456979.html) |
 
 
@@ -1722,8 +1920,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 236227 |
+| B&B Tree Nodes   | 1061 |
 | Objective value  | 9.1000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 46.31 |
 | MIPLIB Reference | [neos-1582420](https://miplib.zib.de/instance_details_neos-1582420.html) |
 
 
@@ -1739,8 +1939,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 73585 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.33 |
 | MIPLIB Reference | [neos-2075418-temuka](https://miplib.zib.de/instance_details_neos-2075418-temuka.html) |
 
 
@@ -1756,8 +1958,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 5036845 |
+| B&B Tree Nodes   | 153588 |
 | Objective value  | 1.8107480000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-2657525-crna](https://miplib.zib.de/instance_details_neos-2657525-crna.html) |
 
 
@@ -1773,8 +1977,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 65519 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.11 |
 | MIPLIB Reference | [neos-2746589-doon](https://miplib.zib.de/instance_details_neos-2746589-doon.html) |
 
 
@@ -1790,8 +1996,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 102784 |
+| B&B Tree Nodes   | 1339 |
 | Objective value  | -2.3880616860e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 17.34 |
 | MIPLIB Reference | [neos-2978193-inde](https://miplib.zib.de/instance_details_neos-2978193-inde.html) |
 
 
@@ -1807,8 +2015,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3356 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -6.0770298829e+08 |
 | Model status     | Optimal |
+| Run time [s]     | 4.85 |
 | MIPLIB Reference | [neos-2987310-joes](https://miplib.zib.de/instance_details_neos-2987310-joes.html) |
 
 
@@ -1824,8 +2034,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 852049 |
+| B&B Tree Nodes   | 12391 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-3004026-krka](https://miplib.zib.de/instance_details_neos-3004026-krka.html) |
 
 
@@ -1841,8 +2053,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 386986 |
+| B&B Tree Nodes   | 8086 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.28 |
 | MIPLIB Reference | [neos-3024952-loue](https://miplib.zib.de/instance_details_neos-3024952-loue.html) |
 
 
@@ -1858,8 +2072,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.15e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1932400 |
+| B&B Tree Nodes   | 270440 |
 | Objective value  | 1.6000000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-3046615-murg](https://miplib.zib.de/instance_details_neos-3046615-murg.html) |
 
 
@@ -1875,8 +2091,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.99e-03 |
 | Solution status  | feasible |
 | LP iterations    | 47078 |
+| B&B Tree Nodes   | 392 |
 | Objective value  | 6.3079960000e+06 |
 | Model status     | Optimal |
+| Run time [s]     | 8.77 |
 | MIPLIB Reference | [neos-3083819-nubu](https://miplib.zib.de/instance_details_neos-3083819-nubu.html) |
 
 
@@ -1892,8 +2110,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.21e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1249203 |
+| B&B Tree Nodes   | 202 |
 | Objective value  | 1.6020000000e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-3216931-puriri](https://miplib.zib.de/instance_details_neos-3216931-puriri.html) |
 
 
@@ -1909,8 +2129,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 18534 |
+| B&B Tree Nodes   | 202 |
 | Objective value  | 4.5300000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 5.36 |
 | MIPLIB Reference | [neos-3381206-awhea](https://miplib.zib.de/instance_details_neos-3381206-awhea.html) |
 
 
@@ -1926,8 +2148,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 132480 |
+| B&B Tree Nodes   | 403 |
 | Objective value  | 6.7250000000e-02 |
 | Model status     | Optimal |
+| Run time [s]     | 144.57 |
 | MIPLIB Reference | [neos-3402294-bobin](https://miplib.zib.de/instance_details_neos-3402294-bobin.html) |
 
 
@@ -1943,8 +2167,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 2203 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.90 |
 | MIPLIB Reference | [neos-3402454-bohle](https://miplib.zib.de/instance_details_neos-3402454-bohle.html) |
 
 
@@ -1960,8 +2186,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.44e+01 |
 | Solution status  | feasible |
 | LP iterations    | 154323 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -3.3200000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [neos-3555904-turama](https://miplib.zib.de/instance_details_neos-3555904-turama.html) |
 
 
@@ -1977,8 +2205,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.85e-03 |
 | Solution status  | feasible |
 | LP iterations    | 345112 |
+| B&B Tree Nodes   | 2185 |
 | Objective value  | 9.8858562000e+05 |
 | Model status     | Optimal |
+| Run time [s]     | 33.46 |
 | MIPLIB Reference | [neos-3627168-kasai](https://miplib.zib.de/instance_details_neos-3627168-kasai.html) |
 
 
@@ -1994,8 +2224,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 675638 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.04 |
 | MIPLIB Reference | [neos-3656078-kumeu](https://miplib.zib.de/instance_details_neos-3656078-kumeu.html) |
 
 
@@ -2011,8 +2243,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.24e+03 |
 | Solution status  | feasible |
 | LP iterations    | 6706996 |
+| B&B Tree Nodes   | 298050 |
 | Objective value  | 1.4147028836e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [neos-3754480-nidda](https://miplib.zib.de/instance_details_neos-3754480-nidda.html) |
 
 
@@ -2028,8 +2262,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 219098 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [neos-3988577-wolgan](https://miplib.zib.de/instance_details_neos-3988577-wolgan.html) |
 
 
@@ -2045,8 +2281,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.46e+01 |
 | Solution status  | feasible |
 | LP iterations    | 301614 |
+| B&B Tree Nodes   | 135 |
 | Objective value  | 5.2601000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.16 |
 | MIPLIB Reference | [neos-4300652-rahue](https://miplib.zib.de/instance_details_neos-4300652-rahue.html) |
 
 
@@ -2062,8 +2300,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.10e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3361514 |
+| B&B Tree Nodes   | 69564 |
 | Objective value  | 1.4779999920e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-4338804-snowy](https://miplib.zib.de/instance_details_neos-4338804-snowy.html) |
 
 
@@ -2079,8 +2319,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.93e+01 |
 | Solution status  | feasible |
 | LP iterations    | 767471 |
+| B&B Tree Nodes   | 1086 |
 | Objective value  | 3.5384729916e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-4387871-tavua](https://miplib.zib.de/instance_details_neos-4387871-tavua.html) |
 
 
@@ -2096,8 +2338,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 12868 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 4.5370167020e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 29.10 |
 | MIPLIB Reference | [neos-4413714-turia](https://miplib.zib.de/instance_details_neos-4413714-turia.html) |
 
 
@@ -2113,8 +2357,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 45614 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 302.52 |
 | MIPLIB Reference | [neos-4532248-waihi](https://miplib.zib.de/instance_details_neos-4532248-waihi.html) |
 
 
@@ -2130,8 +2376,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.25e-02 |
 | Solution status  | feasible |
 | LP iterations    | 8171 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 2.7271257000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.65 |
 | MIPLIB Reference | [neos-4647030-tutaki](https://miplib.zib.de/instance_details_neos-4647030-tutaki.html) |
 
 
@@ -2147,8 +2395,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.78e+01 |
 | Solution status  | feasible |
 | LP iterations    | 101555 |
+| B&B Tree Nodes   | 700 |
 | Objective value  | 2.5681623762e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.15 |
 | MIPLIB Reference | [neos-4722843-widden](https://miplib.zib.de/instance_details_neos-4722843-widden.html) |
 
 
@@ -2164,8 +2414,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.40e-01 |
 | Solution status  | feasible |
 | LP iterations    | 637597 |
+| B&B Tree Nodes   | 13373 |
 | Objective value  | 2.8395195470e+08 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-4738912-atrato](https://miplib.zib.de/instance_details_neos-4738912-atrato.html) |
 
 
@@ -2181,8 +2433,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.25e+01 |
 | Solution status  | feasible |
 | LP iterations    | 26603 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 1.9744828803e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.61 |
 | MIPLIB Reference | [neos-4763324-toguru](https://miplib.zib.de/instance_details_neos-4763324-toguru.html) |
 
 
@@ -2198,8 +2452,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.37e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1915875 |
+| B&B Tree Nodes   | 30461 |
 | Objective value  | 2.6352840000e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-4954672-berkel](https://miplib.zib.de/instance_details_neos-4954672-berkel.html) |
 
 
@@ -2215,8 +2471,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.15e+01 |
 | Solution status  | feasible |
 | LP iterations    | 34766 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 1.9190000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.09 |
 | MIPLIB Reference | [neos-5049753-cuanza](https://miplib.zib.de/instance_details_neos-5049753-cuanza.html) |
 
 
@@ -2232,8 +2490,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 268210 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.0500000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.08 |
 | MIPLIB Reference | [neos-5052403-cygnet](https://miplib.zib.de/instance_details_neos-5052403-cygnet.html) |
 
 
@@ -2249,8 +2509,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.11e+01 |
 | Solution status  | feasible |
 | LP iterations    | 532849 |
+| B&B Tree Nodes   | 612 |
 | Objective value  | 7.0820000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [neos-5093327-huahum](https://miplib.zib.de/instance_details_neos-5093327-huahum.html) |
 
 
@@ -2266,8 +2528,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 75908 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.26 |
 | MIPLIB Reference | [neos-5104907-jarama](https://miplib.zib.de/instance_details_neos-5104907-jarama.html) |
 
 
@@ -2283,8 +2547,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 895095 |
+| B&B Tree Nodes   | 4205 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-5107597-kakapo](https://miplib.zib.de/instance_details_neos-5107597-kakapo.html) |
 
 
@@ -2300,8 +2566,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.21e+01 |
 | Solution status  | feasible |
 | LP iterations    | 50770 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 2.1720000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.49 |
 | MIPLIB Reference | [neos-5114902-kasavu](https://miplib.zib.de/instance_details_neos-5114902-kasavu.html) |
 
 
@@ -2317,8 +2585,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e+02 |
 | Solution status  | feasible |
 | LP iterations    | 804031 |
+| B&B Tree Nodes   | 1199 |
 | Objective value  | 1.1668536700e-01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [neos-5188808-nattai](https://miplib.zib.de/instance_details_neos-5188808-nattai.html) |
 
 
@@ -2334,8 +2604,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.16e+01 |
 | Solution status  | feasible |
 | LP iterations    | 632259 |
+| B&B Tree Nodes   | 1392 |
 | Objective value  | 1.2963712400e-02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [neos-5195221-niemur](https://miplib.zib.de/instance_details_neos-5195221-niemur.html) |
 
 
@@ -2351,8 +2623,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.58e+01 |
 | Solution status  | feasible |
 | LP iterations    | 48286 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 5.5300000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.77 |
 | MIPLIB Reference | [neos-631710](https://miplib.zib.de/instance_details_neos-631710.html) |
 
 
@@ -2368,8 +2642,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.74e-02 |
 | Solution status  | feasible |
 | LP iterations    | 455604 |
+| B&B Tree Nodes   | 1084 |
 | Objective value  | 1.8445600000e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.14 |
 | MIPLIB Reference | [neos-662469](https://miplib.zib.de/instance_details_neos-662469.html) |
 
 
@@ -2385,8 +2661,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.33e+01 |
 | Solution status  | feasible |
 | LP iterations    | 317162 |
+| B&B Tree Nodes   | 1535 |
 | Objective value  | 3.0000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [neos-787933](https://miplib.zib.de/instance_details_neos-787933.html) |
 
 
@@ -2402,8 +2680,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 9651 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.1200152000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 3.97 |
 | MIPLIB Reference | [neos-827175](https://miplib.zib.de/instance_details_neos-827175.html) |
 
 
@@ -2419,8 +2699,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.71e+00 |
 | Solution status  | feasible |
 | LP iterations    | 94167 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | 2.3778233000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.39 |
 | MIPLIB Reference | [neos-848589](https://miplib.zib.de/instance_details_neos-848589.html) |
 
 
@@ -2436,8 +2718,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 15960 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 3.2010000000e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 12.18 |
 | MIPLIB Reference | [neos-860300](https://miplib.zib.de/instance_details_neos-860300.html) |
 
 
@@ -2453,8 +2737,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 251424 |
+| B&B Tree Nodes   | 471 |
 | Objective value  | 1.1366483523e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 171.58 |
 | MIPLIB Reference | [neos-873061](https://miplib.zib.de/instance_details_neos-873061.html) |
 
 
@@ -2470,8 +2756,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.91e-03 |
 | Solution status  | feasible |
 | LP iterations    | 135193 |
+| B&B Tree Nodes   | 1495 |
 | Objective value  | 5.4760000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 11.29 |
 | MIPLIB Reference | [neos-911970](https://miplib.zib.de/instance_details_neos-911970.html) |
 
 
@@ -2487,8 +2775,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 414987 |
+| B&B Tree Nodes   | 105 |
 | Objective value  | 3.1800000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 212.83 |
 | MIPLIB Reference | [neos-933966](https://miplib.zib.de/instance_details_neos-933966.html) |
 
 
@@ -2504,8 +2794,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 33631 |
+| B&B Tree Nodes   | 22 |
 | Objective value  | 4.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 20.54 |
 | MIPLIB Reference | [neos-950242](https://miplib.zib.de/instance_details_neos-950242.html) |
 
 
@@ -2521,8 +2813,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.10e-04 |
 | Solution status  | feasible |
 | LP iterations    | 31621 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -2.3775667161e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 60.14 |
 | MIPLIB Reference | [neos-957323](https://miplib.zib.de/instance_details_neos-957323.html) |
 
 
@@ -2538,8 +2832,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 12561 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -2.3800000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 12.67 |
 | MIPLIB Reference | [neos-960392](https://miplib.zib.de/instance_details_neos-960392.html) |
 
 
@@ -2555,8 +2851,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.58e-03 |
 | Solution status  | feasible |
 | LP iterations    | 53088 |
+| B&B Tree Nodes   | 1193 |
 | Objective value  | 1.5000257742e-01 |
 | Model status     | Optimal |
+| Run time [s]     | 6.86 |
 | MIPLIB Reference | [neos17](https://miplib.zib.de/instance_details_neos17.html) |
 
 
@@ -2572,8 +2870,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.89e-03 |
 | Solution status  | feasible |
 | LP iterations    | 3321801 |
+| B&B Tree Nodes   | 305407 |
 | Objective value  | 1.5000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 139.81 |
 | MIPLIB Reference | [neos5](https://miplib.zib.de/instance_details_neos5.html) |
 
 
@@ -2589,8 +2889,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 99 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | -3.7190000000e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 4.79 |
 | MIPLIB Reference | [neos8](https://miplib.zib.de/instance_details_neos8.html) |
 
 
@@ -2606,8 +2908,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 45338 |
+| B&B Tree Nodes   | 5792 |
 | Objective value  | inf |
 | Model status     | Infeasible |
+| Run time [s]     | 4.52 |
 | MIPLIB Reference | [neos859080](https://miplib.zib.de/instance_details_neos859080.html) |
 
 
@@ -2623,8 +2927,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.30e+01 |
 | Solution status  | feasible |
 | LP iterations    | 937986 |
+| B&B Tree Nodes   | 1156 |
 | Objective value  | 2.1400000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [net12](https://miplib.zib.de/instance_details_net12.html) |
 
 
@@ -2640,8 +2946,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.07e+00 |
 | Solution status  | feasible |
 | LP iterations    | 40504 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 2.4400000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 309.37 |
 | MIPLIB Reference | [netdiversion](https://miplib.zib.de/instance_details_netdiversion.html) |
 
 
@@ -2657,8 +2965,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.16e+00 |
 | Solution status  | feasible |
 | LP iterations    | 384064 |
+| B&B Tree Nodes   | 233 |
 | Objective value  | 2.3200000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [nexp-150-20-8-5](https://miplib.zib.de/instance_details_nexp-150-20-8-5.html) |
 
 
@@ -2674,8 +2984,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 46730 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 0.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 244.64 |
 | MIPLIB Reference | [ns1116954](https://miplib.zib.de/instance_details_ns1116954.html) |
 
 
@@ -2691,8 +3003,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 443000 |
+| B&B Tree Nodes   | 914 |
 | Objective value  | 2.0000000000e+00 |
 | Model status     | Optimal |
+| Run time [s]     | 104.49 |
 | MIPLIB Reference | [ns1208400](https://miplib.zib.de/instance_details_ns1208400.html) |
 
 
@@ -2708,8 +3022,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 87580 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 306.91 |
 | MIPLIB Reference | [ns1644855](https://miplib.zib.de/instance_details_ns1644855.html) |
 
 
@@ -2725,8 +3041,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 0 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 418.57 |
 | MIPLIB Reference | [ns1760995](https://miplib.zib.de/instance_details_ns1760995.html) |
 
 
@@ -2742,8 +3060,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.31e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1798254 |
+| B&B Tree Nodes   | 15730 |
 | Objective value  | 2.3622000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [ns1830653](https://miplib.zib.de/instance_details_ns1830653.html) |
 
 
@@ -2759,8 +3079,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 48846 |
+| B&B Tree Nodes   | 852 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.66 |
 | MIPLIB Reference | [ns1952667](https://miplib.zib.de/instance_details_ns1952667.html) |
 
 
@@ -2776,8 +3098,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.28e-03 |
 | Solution status  | feasible |
 | LP iterations    | 13552 |
+| B&B Tree Nodes   | 18 |
 | Objective value  | 5.3905000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 4.84 |
 | MIPLIB Reference | [nu25-pr12](https://miplib.zib.de/instance_details_nu25-pr12.html) |
 
 
@@ -2793,8 +3117,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.97e+01 |
 | Solution status  | feasible |
 | LP iterations    | 171965 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.4316000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.07 |
 | MIPLIB Reference | [nursesched-medium-hint03](https://miplib.zib.de/instance_details_nursesched-medium-hint03.html) |
 
 
@@ -2810,8 +3136,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5378 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 5.8000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 12.35 |
 | MIPLIB Reference | [nursesched-sprint02](https://miplib.zib.de/instance_details_nursesched-sprint02.html) |
 
 
@@ -2827,8 +3155,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 4030 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.6862000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 49.45 |
 | MIPLIB Reference | [nw04](https://miplib.zib.de/instance_details_nw04.html) |
 
 
@@ -2844,8 +3174,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.81e+01 |
 | Solution status  | feasible |
 | LP iterations    | 89767 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | -3.1578000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.09 |
 | MIPLIB Reference | [opm2-z10-s4](https://miplib.zib.de/instance_details_opm2-z10-s4.html) |
 
 
@@ -2861,8 +3193,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 2572 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.5078000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 0.68 |
 | MIPLIB Reference | [p200x1188c](https://miplib.zib.de/instance_details_p200x1188c.html) |
 
 
@@ -2878,8 +3212,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 1383290 |
+| B&B Tree Nodes   | 725 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [peg-solitaire-a3](https://miplib.zib.de/instance_details_peg-solitaire-a3.html) |
 
 
@@ -2895,8 +3231,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.96e-03 |
 | Solution status  | feasible |
 | LP iterations    | 57727 |
+| B&B Tree Nodes   | 113 |
 | Objective value  | -8.6743426071e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 9.33 |
 | MIPLIB Reference | [pg](https://miplib.zib.de/instance_details_pg.html) |
 
 
@@ -2912,8 +3250,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.99e-03 |
 | Solution status  | feasible |
 | LP iterations    | 922543 |
+| B&B Tree Nodes   | 5790 |
 | Objective value  | -1.4339353447e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 185.40 |
 | MIPLIB Reference | [pg5_34](https://miplib.zib.de/instance_details_pg5_34.html) |
 
 
@@ -2929,8 +3269,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 338016 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [physiciansched3-3](https://miplib.zib.de/instance_details_physiciansched3-3.html) |
 
 
@@ -2946,8 +3288,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 41770 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 4.9324000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 18.27 |
 | MIPLIB Reference | [physiciansched6-2](https://miplib.zib.de/instance_details_physiciansched6-2.html) |
 
 
@@ -2963,8 +3307,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5335 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.2505500000e+05 |
 | Model status     | Optimal |
+| Run time [s]     | 19.46 |
 | MIPLIB Reference | [piperout-08](https://miplib.zib.de/instance_details_piperout-08.html) |
 
 
@@ -2980,8 +3326,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 5743 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 8.1240000000e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 21.89 |
 | MIPLIB Reference | [piperout-27](https://miplib.zib.de/instance_details_piperout-27.html) |
 
 
@@ -2997,8 +3345,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.92e-03 |
 | Solution status  | feasible |
 | LP iterations    | 3759307 |
+| B&B Tree Nodes   | 347655 |
 | Objective value  | 1.1000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 181.47 |
 | MIPLIB Reference | [pk1](https://miplib.zib.de/instance_details_pk1.html) |
 
 
@@ -3014,8 +3364,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 121770 |
+| B&B Tree Nodes   | 808 |
 | Objective value  | 1.4990000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.43 |
 | MIPLIB Reference | [proteindesign121hz512p9](https://miplib.zib.de/instance_details_proteindesign121hz512p9.html) |
 
 
@@ -3031,8 +3383,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.98e+00 |
 | Solution status  | feasible |
 | LP iterations    | 112432 |
+| B&B Tree Nodes   | 403 |
 | Objective value  | 1.7670000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.39 |
 | MIPLIB Reference | [proteindesign122trx11p8](https://miplib.zib.de/instance_details_proteindesign122trx11p8.html) |
 
 
@@ -3048,8 +3402,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 162005 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 3.4000000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 99.85 |
 | MIPLIB Reference | [qap10](https://miplib.zib.de/instance_details_qap10.html) |
 
 
@@ -3065,8 +3421,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.39e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1617559 |
+| B&B Tree Nodes   | 14358 |
 | Objective value  | 2.3093000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [radiationm18-12-05](https://miplib.zib.de/instance_details_radiationm18-12-05.html) |
 
 
@@ -3082,8 +3440,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 665311 |
+| B&B Tree Nodes   | 4500 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [radiationm40-10-02](https://miplib.zib.de/instance_details_radiationm40-10-02.html) |
 
 
@@ -3099,8 +3459,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 218712 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 302.20 |
 | MIPLIB Reference | [rail01](https://miplib.zib.de/instance_details_rail01.html) |
 
 
@@ -3116,8 +3478,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 347418 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.05 |
 | MIPLIB Reference | [rail02](https://miplib.zib.de/instance_details_rail02.html) |
 
 
@@ -3133,8 +3497,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.14e+00 |
 | Solution status  | feasible |
 | LP iterations    | 439181 |
+| B&B Tree Nodes   | 677 |
 | Objective value  | 1.7500000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.04 |
 | MIPLIB Reference | [rail507](https://miplib.zib.de/instance_details_rail507.html) |
 
 
@@ -3150,8 +3516,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.32e+00 |
 | Solution status  | feasible |
 | LP iterations    | 3253203 |
+| B&B Tree Nodes   | 33416 |
 | Objective value  | 3.7120000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [ran14x18-disj-8](https://miplib.zib.de/instance_details_ran14x18-disj-8.html) |
 
 
@@ -3167,8 +3535,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.99e+01 |
 | Solution status  | feasible |
 | LP iterations    | 699486 |
+| B&B Tree Nodes   | 18965 |
 | Objective value  | 1.6582948501e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [rd-rplusc-21](https://miplib.zib.de/instance_details_rd-rplusc-21.html) |
 
 
@@ -3184,8 +3554,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.97e-01 |
 | Solution status  | feasible |
 | LP iterations    | 1100877 |
+| B&B Tree Nodes   | 16143 |
 | Objective value  | -3.6760124329e+07 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [reblock115](https://miplib.zib.de/instance_details_reblock115.html) |
 
 
@@ -3201,8 +3573,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.39e-03 |
 | Solution status  | feasible |
 | LP iterations    | 302949 |
+| B&B Tree Nodes   | 1064 |
 | Objective value  | 4.2300000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 85.80 |
 | MIPLIB Reference | [rmatr100-p10](https://miplib.zib.de/instance_details_rmatr100-p10.html) |
 
 
@@ -3218,8 +3592,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.56e+01 |
 | Solution status  | feasible |
 | LP iterations    | 304159 |
+| B&B Tree Nodes   | 325 |
 | Objective value  | 5.1160000000e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.04 |
 | MIPLIB Reference | [rmatr200-p5](https://miplib.zib.de/instance_details_rmatr200-p5.html) |
 
 
@@ -3235,8 +3611,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.37e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3136111 |
+| B&B Tree Nodes   | 17532 |
 | Objective value  | -6.0202030000e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [rocI-4-11](https://miplib.zib.de/instance_details_rocI-4-11.html) |
 
 
@@ -3252,8 +3630,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.09e+02 |
 | Solution status  | feasible |
 | LP iterations    | 963419 |
+| B&B Tree Nodes   | 11091 |
 | Objective value  | -5.6611090473e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [rocII-5-11](https://miplib.zib.de/instance_details_rocII-5-11.html) |
 
 
@@ -3269,8 +3649,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.88e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1642631 |
+| B&B Tree Nodes   | 5541 |
 | Objective value  | 2.1125000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.00 |
 | MIPLIB Reference | [rococoB10-011000](https://miplib.zib.de/instance_details_rococoB10-011000.html) |
 
 
@@ -3286,8 +3668,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.73e-03 |
 | Solution status  | feasible |
 | LP iterations    | 1401756 |
+| B&B Tree Nodes   | 6519 |
 | Objective value  | 1.1460000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 160.70 |
 | MIPLIB Reference | [rococoC10-001000](https://miplib.zib.de/instance_details_rococoC10-001000.html) |
 
 
@@ -3303,8 +3687,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.70e+01 |
 | Solution status  | feasible |
 | LP iterations    | 221455 |
+| B&B Tree Nodes   | 1599 |
 | Objective value  | -6.2675440360e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [roi2alpha3n4](https://miplib.zib.de/instance_details_roi2alpha3n4.html) |
 
 
@@ -3320,8 +3706,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.26e+01 |
 | Solution status  | feasible |
 | LP iterations    | 147268 |
+| B&B Tree Nodes   | 18 |
 | Objective value  | -4.0301445380e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.10 |
 | MIPLIB Reference | [roi5alpha10n8](https://miplib.zib.de/instance_details_roi5alpha10n8.html) |
 
 
@@ -3337,8 +3725,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.66e-03 |
 | Solution status  | feasible |
 | LP iterations    | 178564 |
+| B&B Tree Nodes   | 674 |
 | Objective value  | 1.2890000000e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 31.23 |
 | MIPLIB Reference | [roll3000](https://miplib.zib.de/instance_details_roll3000.html) |
 
 
@@ -3354,8 +3744,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.03e+01 |
 | Solution status  | feasible |
 | LP iterations    | 108701 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -1.3900100972e-01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.27 |
 | MIPLIB Reference | [s100](https://miplib.zib.de/instance_details_s100.html) |
 
 
@@ -3371,8 +3763,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.73e-01 |
 | Solution status  | feasible |
 | LP iterations    | 289774 |
+| B&B Tree Nodes   | 44 |
 | Objective value  | -1.7174599921e-01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.11 |
 | MIPLIB Reference | [s250r10](https://miplib.zib.de/instance_details_s250r10.html) |
 
 
@@ -3388,8 +3782,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.32e+02 |
 | Solution status  | feasible |
 | LP iterations    | 422859 |
+| B&B Tree Nodes   | 51 |
 | Objective value  | 2.2000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.08 |
 | MIPLIB Reference | [satellites2-40](https://miplib.zib.de/instance_details_satellites2-40.html) |
 
 
@@ -3405,8 +3801,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.26e+01 |
 | Solution status  | feasible |
 | LP iterations    | 526270 |
+| B&B Tree Nodes   | 107 |
 | Objective value  | -1.9000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.13 |
 | MIPLIB Reference | [satellites2-60-fs](https://miplib.zib.de/instance_details_satellites2-60-fs.html) |
 
 
@@ -3422,8 +3820,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.95e+01 |
 | Solution status  | feasible |
 | LP iterations    | 143420 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 1.2791800000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.02 |
 | MIPLIB Reference | [savsched1](https://miplib.zib.de/instance_details_savsched1.html) |
 
 
@@ -3439,8 +3839,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.00e-02 |
 | Solution status  | feasible |
 | LP iterations    | 2525877 |
+| B&B Tree Nodes   | 13552 |
 | Objective value  | -2.3098650880e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 284.29 |
 | MIPLIB Reference | [sct2](https://miplib.zib.de/instance_details_sct2.html) |
 
 
@@ -3456,8 +3858,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.29e+00 |
 | Solution status  | feasible |
 | LP iterations    | 1083995 |
+| B&B Tree Nodes   | 3331 |
 | Objective value  | 4.2600000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [seymour](https://miplib.zib.de/instance_details_seymour.html) |
 
 
@@ -3473,8 +3877,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.92e-03 |
 | Solution status  | feasible |
 | LP iterations    | 470740 |
+| B&B Tree Nodes   | 1741 |
 | Objective value  | 4.1076370139e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 103.98 |
 | MIPLIB Reference | [seymour1](https://miplib.zib.de/instance_details_seymour1.html) |
 
 
@@ -3490,8 +3896,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.96e+01 |
 | Solution status  | feasible |
 | LP iterations    | 137347 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | 9.6317633001e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.54 |
 | MIPLIB Reference | [sing326](https://miplib.zib.de/instance_details_sing326.html) |
 
 
@@ -3507,8 +3915,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 4.33e-01 |
 | Solution status  | feasible |
 | LP iterations    | 147839 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | 8.1521517905e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [sing44](https://miplib.zib.de/instance_details_sing44.html) |
 
 
@@ -3524,8 +3934,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.03e-03 |
 | Solution status  | feasible |
 | LP iterations    | 65055 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 5.8681949318e+08 |
 | Model status     | Optimal |
+| Run time [s]     | 51.47 |
 | MIPLIB Reference | [snp-02-004-104](https://miplib.zib.de/instance_details_snp-02-004-104.html) |
 
 
@@ -3541,8 +3953,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.85e+02 |
 | Solution status  | feasible |
 | LP iterations    | 80104 |
+| B&B Tree Nodes   | 152 |
 | Objective value  | -1.3000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.08 |
 | MIPLIB Reference | [sorrell3](https://miplib.zib.de/instance_details_sorrell3.html) |
 
 
@@ -3558,8 +3972,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 246 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 6.9000000000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 0.06 |
 | MIPLIB Reference | [sp150x300d](https://miplib.zib.de/instance_details_sp150x300d.html) |
 
 
@@ -3575,8 +3991,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.62e+00 |
 | Solution status  | feasible |
 | LP iterations    | 364715 |
+| B&B Tree Nodes   | 2110 |
 | Objective value  | 6.7431311296e+08 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.06 |
 | MIPLIB Reference | [sp97ar](https://miplib.zib.de/instance_details_sp97ar.html) |
 
 
@@ -3592,8 +4010,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.42e+00 |
 | Solution status  | feasible |
 | LP iterations    | 306934 |
+| B&B Tree Nodes   | 2162 |
 | Objective value  | 5.3500380880e+08 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.17 |
 | MIPLIB Reference | [sp98ar](https://miplib.zib.de/instance_details_sp98ar.html) |
 
 
@@ -3609,8 +4029,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.88e+02 |
 | Solution status  | feasible |
 | LP iterations    | 8850 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | -3.3700000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.29 |
 | MIPLIB Reference | [splice1k1](https://miplib.zib.de/instance_details_splice1k1.html) |
 
 
@@ -3626,8 +4048,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 10250 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 368.19 |
 | MIPLIB Reference | [square41](https://miplib.zib.de/instance_details_square41.html) |
 
 
@@ -3643,8 +4067,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 9092 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.66 |
 | MIPLIB Reference | [square47](https://miplib.zib.de/instance_details_square47.html) |
 
 
@@ -3660,8 +4086,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.10e+01 |
 | Solution status  | feasible |
 | LP iterations    | 188958 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | 2.1000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.03 |
 | MIPLIB Reference | [supportcase10](https://miplib.zib.de/instance_details_supportcase10.html) |
 
 
@@ -3677,8 +4105,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.79e-01 |
 | Solution status  | feasible |
 | LP iterations    | 493624 |
+| B&B Tree Nodes   | 143 |
 | Objective value  | -7.5309911475e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.08 |
 | MIPLIB Reference | [supportcase12](https://miplib.zib.de/instance_details_supportcase12.html) |
 
 
@@ -3694,8 +4124,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 2.04e+00 |
 | Solution status  | feasible |
 | LP iterations    | 743851 |
+| B&B Tree Nodes   | 10644 |
 | Objective value  | 4.9000000000e+01 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [supportcase18](https://miplib.zib.de/instance_details_supportcase18.html) |
 
 
@@ -3711,8 +4143,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 144681 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 306.26 |
 | MIPLIB Reference | [supportcase19](https://miplib.zib.de/instance_details_supportcase19.html) |
 
 
@@ -3728,8 +4162,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | inf |
 | Solution status  | - |
 | LP iterations    | 27788 |
+| B&B Tree Nodes   | 0 |
 | Objective value  | inf |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.09 |
 | MIPLIB Reference | [supportcase22](https://miplib.zib.de/instance_details_supportcase22.html) |
 
 
@@ -3745,8 +4181,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.11e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3609869 |
+| B&B Tree Nodes   | 146871 |
 | Objective value  | 1.7451241823e+03 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [supportcase26](https://miplib.zib.de/instance_details_supportcase26.html) |
 
 
@@ -3762,8 +4200,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 240689 |
+| B&B Tree Nodes   | 1680 |
 | Objective value  | -3.4500000000e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 117.42 |
 | MIPLIB Reference | [supportcase33](https://miplib.zib.de/instance_details_supportcase33.html) |
 
 
@@ -3779,8 +4219,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.43e+00 |
 | Solution status  | feasible |
 | LP iterations    | 404616 |
+| B&B Tree Nodes   | 2128 |
 | Objective value  | 2.4393925691e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [supportcase40](https://miplib.zib.de/instance_details_supportcase40.html) |
 
 
@@ -3796,8 +4238,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.11e+00 |
 | Solution status  | feasible |
 | LP iterations    | 162877 |
+| B&B Tree Nodes   | 3077 |
 | Objective value  | 8.0000000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.21 |
 | MIPLIB Reference | [supportcase42](https://miplib.zib.de/instance_details_supportcase42.html) |
 
 
@@ -3813,8 +4257,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.29e+01 |
 | Solution status  | feasible |
 | LP iterations    | 176037 |
+| B&B Tree Nodes   | 244 |
 | Objective value  | 5.1924621020e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.38 |
 | MIPLIB Reference | [supportcase6](https://miplib.zib.de/instance_details_supportcase6.html) |
 
 
@@ -3830,8 +4276,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 7.46e-03 |
 | Solution status  | feasible |
 | LP iterations    | 118411 |
+| B&B Tree Nodes   | 7 |
 | Objective value  | -1.1322231708e+03 |
 | Model status     | Optimal |
+| Run time [s]     | 75.61 |
 | MIPLIB Reference | [supportcase7](https://miplib.zib.de/instance_details_supportcase7.html) |
 
 
@@ -3847,8 +4295,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 35725 |
+| B&B Tree Nodes   | 129 |
 | Objective value  | 3.7907129575e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 14.04 |
 | MIPLIB Reference | [swath1](https://miplib.zib.de/instance_details_swath1.html) |
 
 
@@ -3864,8 +4314,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.64e-03 |
 | Solution status  | feasible |
 | LP iterations    | 310334 |
+| B&B Tree Nodes   | 8378 |
 | Objective value  | 3.9776134365e+02 |
 | Model status     | Optimal |
+| Run time [s]     | 83.90 |
 | MIPLIB Reference | [swath3](https://miplib.zib.de/instance_details_swath3.html) |
 
 
@@ -3881,8 +4333,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 300596 |
+| B&B Tree Nodes   | 5 |
 | Objective value  | 2.4163194444e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 176.48 |
 | MIPLIB Reference | [tbfp-network](https://miplib.zib.de/instance_details_tbfp-network.html) |
 
 
@@ -3898,8 +4352,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.88e+01 |
 | Solution status  | feasible |
 | LP iterations    | 50300 |
+| B&B Tree Nodes   | 9 |
 | Objective value  | 4.0819000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.07 |
 | MIPLIB Reference | [thor50dday](https://miplib.zib.de/instance_details_thor50dday.html) |
 
 
@@ -3915,8 +4371,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.30e-03 |
 | Solution status  | feasible |
 | LP iterations    | 987387 |
+| B&B Tree Nodes   | 17213 |
 | Objective value  | 7.6477400000e+05 |
 | Model status     | Optimal |
+| Run time [s]     | 95.43 |
 | MIPLIB Reference | [timtab1](https://miplib.zib.de/instance_details_timtab1.html) |
 
 
@@ -3932,8 +4390,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 6.76e-02 |
 | Solution status  | feasible |
 | LP iterations    | 1299752 |
+| B&B Tree Nodes   | 28012 |
 | Objective value  | 1.3059900000e+05 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [tr12-30](https://miplib.zib.de/instance_details_tr12-30.html) |
 
 
@@ -3949,8 +4409,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.90e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2217994 |
+| B&B Tree Nodes   | 162836 |
 | Objective value  | 7.2630000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [traininstance2](https://miplib.zib.de/instance_details_traininstance2.html) |
 
 
@@ -3966,8 +4428,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 8.24e+01 |
 | Solution status  | feasible |
 | LP iterations    | 2587076 |
+| B&B Tree Nodes   | 199203 |
 | Objective value  | 2.8290000000e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [traininstance6](https://miplib.zib.de/instance_details_traininstance6.html) |
 
 
@@ -3983,8 +4447,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.49e-01 |
 | Solution status  | feasible |
 | LP iterations    | 781220 |
+| B&B Tree Nodes   | 669 |
 | Objective value  | 5.2115250003e+06 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.16 |
 | MIPLIB Reference | [trento1](https://miplib.zib.de/instance_details_trento1.html) |
 
 
@@ -4000,8 +4466,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 0.00e+00 |
 | Solution status  | feasible |
 | LP iterations    | 85372 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 2.2868100000e+01 |
 | Model status     | Optimal |
+| Run time [s]     | 83.82 |
 | MIPLIB Reference | [triptim1](https://miplib.zib.de/instance_details_triptim1.html) |
 
 
@@ -4017,8 +4485,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 3.14e-04 |
 | Solution status  | feasible |
 | LP iterations    | 36619 |
+| B&B Tree Nodes   | 1 |
 | Objective value  | 1.1507405062e+04 |
 | Model status     | Optimal |
+| Run time [s]     | 19.83 |
 | MIPLIB Reference | [uccase12](https://miplib.zib.de/instance_details_uccase12.html) |
 
 
@@ -4034,8 +4504,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.95e+00 |
 | Solution status  | feasible |
 | LP iterations    | 147123 |
+| B&B Tree Nodes   | 2 |
 | Objective value  | 1.1651609888e+04 |
 | Model status     | Time limit reached |
+| Run time [s]     | 301.12 |
 | MIPLIB Reference | [uccase9](https://miplib.zib.de/instance_details_uccase9.html) |
 
 
@@ -4051,8 +4523,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.06e+01 |
 | Solution status  | feasible |
 | LP iterations    | 1930076 |
+| B&B Tree Nodes   | 10696 |
 | Objective value  | 3.2200000000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.02 |
 | MIPLIB Reference | [uct-subprob](https://miplib.zib.de/instance_details_uct-subprob.html) |
 
 
@@ -4068,8 +4542,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 9.97e-03 |
 | Solution status  | feasible |
 | LP iterations    | 306402 |
+| B&B Tree Nodes   | 259 |
 | Objective value  | 1.9635617199e+07 |
 | Model status     | Optimal |
+| Run time [s]     | 172.56 |
 | MIPLIB Reference | [unitcal_7](https://miplib.zib.de/instance_details_unitcal_7.html) |
 
 
@@ -4085,8 +4561,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 5.54e+00 |
 | Solution status  | feasible |
 | LP iterations    | 172279 |
+| B&B Tree Nodes   | 4056 |
 | Objective value  | -1.4646875000e+02 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [var-smallemery-m6j6](https://miplib.zib.de/instance_details_var-smallemery-m6j6.html) |
 
 
@@ -4102,8 +4580,10 @@ kkt_tolerance = 1e-04
 | Gap [%]          | 1.25e+01 |
 | Solution status  | feasible |
 | LP iterations    | 3625455 |
+| B&B Tree Nodes   | 38532 |
 | Objective value  | -8.0000000000e+00 |
 | Model status     | Time limit reached |
+| Run time [s]     | 300.01 |
 | MIPLIB Reference | [wachplan](https://miplib.zib.de/instance_details_wachplan.html) |
 
 
