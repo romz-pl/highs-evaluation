@@ -60,6 +60,9 @@ def parse_highs_output(filename):
     solution_status_match = re.search(r'Solution status\s+(.+)', content)
     solution_status = solution_status_match.group(1) if solution_status_match else 'N/A'
 
+    nodes_match = re.search(r'Nodes {13}(.+)', content)
+    nodes = nodes_match.group(1) if nodes_match else 'N/A'
+
     lp_iterations_match = re.search(r'LP iterations\s+(\d+)', content)
     lp_iterations = lp_iterations_match.group(1) if lp_iterations_match else 'N/A'
 
@@ -68,6 +71,9 @@ def parse_highs_output(filename):
 
     model_status_match = re.search(r'Model status        :\s+(.+)', content)
     model_status = model_status_match.group(1) if model_status_match else 'N/A'
+
+    run_time_match = re.search(r'HiGHS run time      :\s+(.+)', content)
+    run_time = run_time_match.group(1) if run_time_match else 'N/A'
 
     # Generate MIPLIB URL
     miplib_url = f"https://miplib.zib.de/instance_details_{model_name}.html"
@@ -82,8 +88,10 @@ def parse_highs_output(filename):
         'gap': gap,
         'solution_status': solution_status,
         'lp_iterations': lp_iterations,
+        'nodes': nodes,
         'objective_value': objective_value,
         'model_status': model_status,
+        'run_time': run_time,
         'miplib_url': miplib_url
     }
 
@@ -103,8 +111,10 @@ def generate_markdown_table(data):
         ("Gap [%]", data['gap']),
         ("Solution status", data['solution_status']),
         ("LP iterations", data['lp_iterations']),
+        ("B&B Tree Nodes", data['nodes']),
         ("Objective value", data['objective_value']),
         ("Model status", data['model_status']),
+        ("Run time [s]", data['run_time']),
         ("MIPLIB Reference", f"[{data['model_name']}]({data['miplib_url']})")
     ]
 
