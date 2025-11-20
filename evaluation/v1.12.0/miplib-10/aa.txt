@@ -1,0 +1,38 @@
+
+
+## Model: 30n20b8
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [30n20b8](30n20b8.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 3.0200000000e+02 |
+| Dual bound       | 3.0200000000e+02 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 85523 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | N/A |
+| Model status     | N/A |
+| Run time [s]     | N/A |
+| MIPLIB Reference | [30n20b8](https://miplib.zib.de/instance_details_30n20b8.html) |
+
+
+## Model: 50v-10
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [50v-10](50v-10.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 3.3315999905e+03 |
+| Dual bound       | 3.2766533315e+03 |
+| Delta Gap        | 5.4946659000e+01 |
+| Gap [%]          | 1.65e+00 |
+| Solution status  | feasible |
+| LP iterations    | 3285796 |
+| B&B Tree Nodes   | 21337 |
+| Objective value  | N/A |
+| Model status     | N/A |
+| Run time [s]     | N/A |
+| MIPLIB Reference | [50v-10](https://miplib.zib.de/instance_details_50v-10.html) |
