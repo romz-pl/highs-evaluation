@@ -108,6 +108,19 @@ parallel = off
 simplex_strategy = 3
 ```
 
+## miplib-09
+
+1. The results are listed in the [miplib-09/README.md](miplib-09/README.md) file.
+
+2. The content of `highs_option.txt` file is the following:
+```ini
+time_limit = 300
+presolve = on
+solver = simplex
+parallel = off
+simplex_strategy = 2
+```
+
 
 
 
