@@ -45,6 +45,7 @@ def parse_highs_output(filename):
         value = gap_match.group(1).strip()
         if "% (tolerance:" in value:
             gap, second = value.split("% (tolerance:", 1)
+            # print(f"{gap}")
             gap = float(gap)
             gap = f"{gap:.2e}"
         else:
