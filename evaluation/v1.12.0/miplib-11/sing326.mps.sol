@@ -73,3 +73,44 @@ Model after restart has 43139 rows, 47411 cols (32265 bin., 0 int., 0 impl., 151
 
          0       0         0   0.00%   7742680.238313  9631763.300123    19.61%     1361      0      0    107743   214.1s
          0       0         0   0.00%   7742680.238314  9631763.300123    19.61%     1361   1339      4    121439   229.4s
+         0       0         0   0.00%   7742730.579236  9631763.300123    19.61%     3140   1463      4    122261   237.0s
+         0       0         0   0.00%   7742768.479972  9631763.300123    19.61%     4809   1568      4    123040   243.1s
+         0       0         0   0.00%   7742827.369441  9631763.300123    19.61%     6562   1634      4    123697   248.5s
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   7742863.40136   9631763.300123    19.61%     7997   1696      4    124225   253.9s
+         0       0         0   0.00%   7742912.402187  9631763.300123    19.61%     9976   1786      4    125314   261.2s
+         2       2         1   0.00%   7742912.402187  9631763.300123    19.61%     9976   1336      4    262384   600.2s
+         2       2         1   0.00%   7742912.402187  9631763.300123    19.61%     9976   1336      4    262384   600.2s
+
+Solving report
+  Model             sing326
+  Status            Time limit reached
+  Primal bound      9631763.30012
+  Dual bound        7742912.40219
+  Gap               19.61% (tolerance: 0.01%)
+  P-D integral      205.163954381
+  Solution status   feasible
+                    9631763.30012 (objective)
+                    0 (bound viol.)
+                    2.43138842393e-13 (int. viol.)
+                    0 (row viol.)
+  Timing            600.18
+  Max sub-MIP depth 7
+  Nodes             2
+  Repair LPs        0
+  LP iterations     262384
+                    137070 (strong br.)
+                    68155 (separation)
+                    17414 (heuristics)
+Model name          : sing326
+Model status        : Time limit reached
+Simplex   iterations: 262384
+IPM       iterations: -1
+Crossover iterations: -1
+PDLP      iterations: -1
+QP ASM    iterations: -1
+Objective value     :  9.6317633001e+06
+HiGHS run time      :        600.20

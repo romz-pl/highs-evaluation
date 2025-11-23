@@ -27,8 +27,6 @@ simplex_strategy = 4
 
 
 
-
-
 ## Model: 30n20b8
 
 | Key              | Value |
@@ -3886,6 +3884,707 @@ simplex_strategy = 4
 | MIPLIB Reference | [seymour1](https://miplib.zib.de/instance_details_seymour1.html) |
 
 
+## Model: sing326
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sing326](sing326.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 9.6317633001e+06 |
+| Dual bound       | 7.7429124022e+06 |
+| Delta Gap        | 1.8888508979e+06 |
+| Gap [%]          | 1.96e+01 |
+| Solution status  | feasible |
+| LP iterations    | 262384 |
+| B&B Tree Nodes   | 2 |
+| Objective value  | 9.6317633001e+06 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.20 |
+| MIPLIB Reference | [sing326](https://miplib.zib.de/instance_details_sing326.html) |
+
+
+## Model: sing44
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sing44](sing44.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 8.1521517905e+06 |
+| Dual bound       | 8.1168812207e+06 |
+| Delta Gap        | 3.5270569800e+04 |
+| Gap [%]          | 4.33e-01 |
+| Solution status  | feasible |
+| LP iterations    | 273358 |
+| B&B Tree Nodes   | 49 |
+| Objective value  | 8.1521517905e+06 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.45 |
+| MIPLIB Reference | [sing44](https://miplib.zib.de/instance_details_sing44.html) |
+
+
+## Model: snp-02-004-104
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [snp-02-004-104](snp-02-004-104.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 5.8681949318e+08 |
+| Dual bound       | 5.8678409698e+08 |
+| Delta Gap        | 3.5396200000e+04 |
+| Gap [%]          | 6.03e-03 |
+| Solution status  | feasible |
+| LP iterations    | 65055 |
+| B&B Tree Nodes   | 1 |
+| Objective value  | 5.8681949318e+08 |
+| Model status     | Optimal |
+| Run time [s]     | 55.17 |
+| MIPLIB Reference | [snp-02-004-104](https://miplib.zib.de/instance_details_snp-02-004-104.html) |
+
+
+## Model: sorrell3
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sorrell3](sorrell3.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | -1.4000000000e+01 |
+| Dual bound       | -3.5000000000e+01 |
+| Delta Gap        | 2.1000000000e+01 |
+| Gap [%]          | 1.50e+02 |
+| Solution status  | feasible |
+| LP iterations    | 163963 |
+| B&B Tree Nodes   | 1202 |
+| Objective value  | -1.4000000000e+01 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.05 |
+| MIPLIB Reference | [sorrell3](https://miplib.zib.de/instance_details_sorrell3.html) |
+
+
+## Model: sp150x300d
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sp150x300d](sp150x300d.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 6.9000000000e+01 |
+| Dual bound       | 6.9000000000e+01 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 246 |
+| B&B Tree Nodes   | 1 |
+| Objective value  | 6.9000000000e+01 |
+| Model status     | Optimal |
+| Run time [s]     | 0.05 |
+| MIPLIB Reference | [sp150x300d](https://miplib.zib.de/instance_details_sp150x300d.html) |
+
+
+## Model: sp97ar
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sp97ar](sp97ar.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 6.7431311296e+08 |
+| Dual bound       | 6.5741290206e+08 |
+| Delta Gap        | 1.6900210900e+07 |
+| Gap [%]          | 2.51e+00 |
+| Solution status  | feasible |
+| LP iterations    | 672063 |
+| B&B Tree Nodes   | 4717 |
+| Objective value  | 6.7431311296e+08 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.05 |
+| MIPLIB Reference | [sp97ar](https://miplib.zib.de/instance_details_sp97ar.html) |
+
+
+## Model: sp98ar
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [sp98ar](sp98ar.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 5.3165051152e+08 |
+| Dual bound       | 5.2804882065e+08 |
+| Delta Gap        | 3.6016908700e+06 |
+| Gap [%]          | 6.77e-01 |
+| Solution status  | feasible |
+| LP iterations    | 700517 |
+| B&B Tree Nodes   | 5430 |
+| Objective value  | 5.3165051152e+08 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.07 |
+| MIPLIB Reference | [sp98ar](https://miplib.zib.de/instance_details_sp98ar.html) |
+
+
+## Model: splice1k1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [splice1k1](splice1k1.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | -3.3700000000e+02 |
+| Dual bound       | -1.6440000000e+03 |
+| Delta Gap        | 1.3070000000e+03 |
+| Gap [%]          | 3.88e+02 |
+| Solution status  | feasible |
+| LP iterations    | 51267 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | -3.3700000000e+02 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.98 |
+| MIPLIB Reference | [splice1k1](https://miplib.zib.de/instance_details_splice1k1.html) |
+
+
+## Model: square41
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [square41](square41.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | inf |
+| Dual bound       | 9.0000000000e+00 |
+| Delta Gap        | inf |
+| Gap [%]          | inf |
+| Solution status  | - |
+| LP iterations    | 11413 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
+| Run time [s]     | 607.84 |
+| MIPLIB Reference | [square41](https://miplib.zib.de/instance_details_square41.html) |
+
+
+## Model: square47
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [square47](square47.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | inf |
+| Dual bound       | 9.0000000000e+00 |
+| Delta Gap        | inf |
+| Gap [%]          | inf |
+| Solution status  | - |
+| LP iterations    | 16131 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
+| Run time [s]     | 606.27 |
+| MIPLIB Reference | [square47](https://miplib.zib.de/instance_details_square47.html) |
+
+
+## Model: supportcase10
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase10](supportcase10.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 2.1000000000e+01 |
+| Dual bound       | 4.0000000000e+00 |
+| Delta Gap        | 1.7000000000e+01 |
+| Gap [%]          | 8.10e+01 |
+| Solution status  | feasible |
+| LP iterations    | 322528 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | 2.1000000000e+01 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.30 |
+| MIPLIB Reference | [supportcase10](https://miplib.zib.de/instance_details_supportcase10.html) |
+
+
+## Model: supportcase12
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase12](supportcase12.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | -7.5448761959e+03 |
+| Dual bound       | -7.5595330537e+03 |
+| Delta Gap        | 1.4656857800e+01 |
+| Gap [%]          | 1.94e-01 |
+| Solution status  | feasible |
+| LP iterations    | 1575732 |
+| B&B Tree Nodes   | 966 |
+| Objective value  | -7.5448761959e+03 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.06 |
+| MIPLIB Reference | [supportcase12](https://miplib.zib.de/instance_details_supportcase12.html) |
+
+
+## Model: supportcase18
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase18](supportcase18.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 4.9000000000e+01 |
+| Dual bound       | 4.8000000000e+01 |
+| Delta Gap        | 1.0000000000e+00 |
+| Gap [%]          | 2.04e+00 |
+| Solution status  | feasible |
+| LP iterations    | 1494253 |
+| B&B Tree Nodes   | 22843 |
+| Objective value  | 4.9000000000e+01 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.31 |
+| MIPLIB Reference | [supportcase18](https://miplib.zib.de/instance_details_supportcase18.html) |
+
+
+## Model: supportcase19
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase19](supportcase19.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | inf |
+| Dual bound       | 8.0000000000e+00 |
+| Delta Gap        | inf |
+| Gap [%]          | inf |
+| Solution status  | - |
+| LP iterations    | 245277 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.48 |
+| MIPLIB Reference | [supportcase19](https://miplib.zib.de/instance_details_supportcase19.html) |
+
+
+## Model: supportcase22
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase22](supportcase22.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | inf |
+| Dual bound       | 4.0000000000e-01 |
+| Delta Gap        | inf |
+| Gap [%]          | inf |
+| Solution status  | - |
+| LP iterations    | 39094 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.27 |
+| MIPLIB Reference | [supportcase22](https://miplib.zib.de/instance_details_supportcase22.html) |
+
+
+## Model: supportcase26
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase26](supportcase26.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 1.7451241823e+03 |
+| Dual bound       | 1.5804782707e+03 |
+| Delta Gap        | 1.6464591160e+02 |
+| Gap [%]          | 9.43e+00 |
+| Solution status  | feasible |
+| LP iterations    | 6624008 |
+| B&B Tree Nodes   | 249921 |
+| Objective value  | 1.7451241823e+03 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.01 |
+| MIPLIB Reference | [supportcase26](https://miplib.zib.de/instance_details_supportcase26.html) |
+
+
+## Model: supportcase33
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase33](supportcase33.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | -3.4500000000e+02 |
+| Dual bound       | -3.4500000000e+02 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 240689 |
+| B&B Tree Nodes   | 1680 |
+| Objective value  | -3.4500000000e+02 |
+| Model status     | Optimal |
+| Run time [s]     | 126.80 |
+| MIPLIB Reference | [supportcase33](https://miplib.zib.de/instance_details_supportcase33.html) |
+
+
+## Model: supportcase40
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase40](supportcase40.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 2.4380929750e+04 |
+| Dual bound       | 2.3747482934e+04 |
+| Delta Gap        | 6.3344681600e+02 |
+| Gap [%]          | 2.60e+00 |
+| Solution status  | feasible |
+| LP iterations    | 755364 |
+| B&B Tree Nodes   | 4836 |
+| Objective value  | 2.4380929750e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.45 |
+| MIPLIB Reference | [supportcase40](https://miplib.zib.de/instance_details_supportcase40.html) |
+
+
+## Model: supportcase42
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase42](supportcase42.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 7.9943855863e+00 |
+| Dual bound       | 7.7513392036e+00 |
+| Delta Gap        | 2.4304638270e-01 |
+| Gap [%]          | 3.04e+00 |
+| Solution status  | feasible |
+| LP iterations    | 285818 |
+| B&B Tree Nodes   | 4585 |
+| Objective value  | 7.9943855863e+00 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.07 |
+| MIPLIB Reference | [supportcase42](https://miplib.zib.de/instance_details_supportcase42.html) |
+
+
+## Model: supportcase6
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase6](supportcase6.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 5.1924621020e+04 |
+| Dual bound       | 4.5888147327e+04 |
+| Delta Gap        | 6.0364736930e+03 |
+| Gap [%]          | 1.16e+01 |
+| Solution status  | feasible |
+| LP iterations    | 279180 |
+| B&B Tree Nodes   | 1036 |
+| Objective value  | 5.1924621020e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.28 |
+| MIPLIB Reference | [supportcase6](https://miplib.zib.de/instance_details_supportcase6.html) |
+
+
+## Model: supportcase7
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [supportcase7](supportcase7.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | -1.1322231708e+03 |
+| Dual bound       | -1.1323076887e+03 |
+| Delta Gap        | 8.4517900000e-02 |
+| Gap [%]          | 7.46e-03 |
+| Solution status  | feasible |
+| LP iterations    | 118411 |
+| B&B Tree Nodes   | 7 |
+| Objective value  | -1.1322231708e+03 |
+| Model status     | Optimal |
+| Run time [s]     | 78.65 |
+| MIPLIB Reference | [supportcase7](https://miplib.zib.de/instance_details_supportcase7.html) |
+
+
+## Model: swath1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [swath1](swath1.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 3.7907129575e+02 |
+| Dual bound       | 3.7907129575e+02 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 35725 |
+| B&B Tree Nodes   | 129 |
+| Objective value  | 3.7907129575e+02 |
+| Model status     | Optimal |
+| Run time [s]     | 14.54 |
+| MIPLIB Reference | [swath1](https://miplib.zib.de/instance_details_swath1.html) |
+
+
+## Model: swath3
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [swath3](swath3.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 3.9776134365e+02 |
+| Dual bound       | 3.9772696348e+02 |
+| Delta Gap        | 3.4380170000e-02 |
+| Gap [%]          | 8.64e-03 |
+| Solution status  | feasible |
+| LP iterations    | 310334 |
+| B&B Tree Nodes   | 8378 |
+| Objective value  | 3.9776134365e+02 |
+| Model status     | Optimal |
+| Run time [s]     | 88.36 |
+| MIPLIB Reference | [swath3](https://miplib.zib.de/instance_details_swath3.html) |
+
+
+## Model: tbfp-network
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [tbfp-network](tbfp-network.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 2.4163194445e+01 |
+| Dual bound       | 2.4163194445e+01 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 300596 |
+| B&B Tree Nodes   | 5 |
+| Objective value  | 2.4163194444e+01 |
+| Model status     | Optimal |
+| Run time [s]     | 191.18 |
+| MIPLIB Reference | [tbfp-network](https://miplib.zib.de/instance_details_tbfp-network.html) |
+
+
+## Model: thor50dday
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [thor50dday](thor50dday.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 4.0672000000e+04 |
+| Dual bound       | 3.3146000000e+04 |
+| Delta Gap        | 7.5260000000e+03 |
+| Gap [%]          | 1.85e+01 |
+| Solution status  | feasible |
+| LP iterations    | 138035 |
+| B&B Tree Nodes   | 237 |
+| Objective value  | 4.0672000000e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.10 |
+| MIPLIB Reference | [thor50dday](https://miplib.zib.de/instance_details_thor50dday.html) |
+
+
+## Model: timtab1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [timtab1](timtab1.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 7.6477400000e+05 |
+| Dual bound       | 7.6470287537e+05 |
+| Delta Gap        | 7.1124630000e+01 |
+| Gap [%]          | 9.30e-03 |
+| Solution status  | feasible |
+| LP iterations    | 987387 |
+| B&B Tree Nodes   | 17213 |
+| Objective value  | 7.6477400000e+05 |
+| Model status     | Optimal |
+| Run time [s]     | 99.43 |
+| MIPLIB Reference | [timtab1](https://miplib.zib.de/instance_details_timtab1.html) |
+
+
+## Model: tr12-30
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [tr12-30](tr12-30.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 1.3059900000e+05 |
+| Dual bound       | 1.3058595826e+05 |
+| Delta Gap        | 1.3041740000e+01 |
+| Gap [%]          | 9.99e-03 |
+| Solution status  | feasible |
+| LP iterations    | 1438088 |
+| B&B Tree Nodes   | 30417 |
+| Objective value  | 1.3059900000e+05 |
+| Model status     | Optimal |
+| Run time [s]     | 363.15 |
+| MIPLIB Reference | [tr12-30](https://miplib.zib.de/instance_details_tr12-30.html) |
+
+
+## Model: traininstance2
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [traininstance2](traininstance2.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 7.2580000000e+04 |
+| Dual bound       | 1.7533000000e+04 |
+| Delta Gap        | 5.5047000000e+04 |
+| Gap [%]          | 7.58e+01 |
+| Solution status  | feasible |
+| LP iterations    | 4594164 |
+| B&B Tree Nodes   | 333298 |
+| Objective value  | 7.2580000000e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.02 |
+| MIPLIB Reference | [traininstance2](https://miplib.zib.de/instance_details_traininstance2.html) |
+
+
+## Model: traininstance6
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [traininstance6](traininstance6.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 2.8290000000e+04 |
+| Dual bound       | 1.3965000000e+04 |
+| Delta Gap        | 1.4325000000e+04 |
+| Gap [%]          | 5.06e+01 |
+| Solution status  | feasible |
+| LP iterations    | 4480115 |
+| B&B Tree Nodes   | 428489 |
+| Objective value  | 2.8290000000e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.02 |
+| MIPLIB Reference | [traininstance6](https://miplib.zib.de/instance_details_traininstance6.html) |
+
+
+## Model: trento1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [trento1](trento1.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 5.2115250003e+06 |
+| Dual bound       | 5.1831890150e+06 |
+| Delta Gap        | 2.8335985300e+04 |
+| Gap [%]          | 5.44e-01 |
+| Solution status  | feasible |
+| LP iterations    | 1388997 |
+| B&B Tree Nodes   | 1159 |
+| Objective value  | 5.2115250003e+06 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.04 |
+| MIPLIB Reference | [trento1](https://miplib.zib.de/instance_details_trento1.html) |
+
+
+## Model: triptim1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [triptim1](triptim1.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 2.2868100000e+01 |
+| Dual bound       | 2.2868100000e+01 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0.00e+00 |
+| Solution status  | feasible |
+| LP iterations    | 85372 |
+| B&B Tree Nodes   | 1 |
+| Objective value  | 2.2868100000e+01 |
+| Model status     | Optimal |
+| Run time [s]     | 88.63 |
+| MIPLIB Reference | [triptim1](https://miplib.zib.de/instance_details_triptim1.html) |
+
+
+## Model: uccase12
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [uccase12](uccase12.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 1.1507405062e+04 |
+| Dual bound       | 1.1507368960e+04 |
+| Delta Gap        | 3.6102000000e-02 |
+| Gap [%]          | 3.14e-04 |
+| Solution status  | feasible |
+| LP iterations    | 36619 |
+| B&B Tree Nodes   | 1 |
+| Objective value  | 1.1507405062e+04 |
+| Model status     | Optimal |
+| Run time [s]     | 19.83 |
+| MIPLIB Reference | [uccase12](https://miplib.zib.de/instance_details_uccase12.html) |
+
+
+## Model: uccase9
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [uccase9](uccase9.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 1.1651609888e+04 |
+| Dual bound       | 1.0957932069e+04 |
+| Delta Gap        | 6.9367781900e+02 |
+| Gap [%]          | 5.95e+00 |
+| Solution status  | feasible |
+| LP iterations    | 199297 |
+| B&B Tree Nodes   | 2 |
+| Objective value  | 1.1651609888e+04 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.94 |
+| MIPLIB Reference | [uccase9](https://miplib.zib.de/instance_details_uccase9.html) |
+
+
+## Model: uct-subprob
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [uct-subprob](uct-subprob.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 3.1500000000e+02 |
+| Dual bound       | 2.9400000000e+02 |
+| Delta Gap        | 2.1000000000e+01 |
+| Gap [%]          | 6.67e+00 |
+| Solution status  | feasible |
+| LP iterations    | 3709203 |
+| B&B Tree Nodes   | 22500 |
+| Objective value  | 3.1500000000e+02 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.04 |
+| MIPLIB Reference | [uct-subprob](https://miplib.zib.de/instance_details_uct-subprob.html) |
+
+
+## Model: unitcal_7
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [unitcal_7](unitcal_7.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 1.9635617199e+07 |
+| Dual bound       | 1.9633659178e+07 |
+| Delta Gap        | 1.9580210000e+03 |
+| Gap [%]          | 9.97e-03 |
+| Solution status  | feasible |
+| LP iterations    | 306402 |
+| B&B Tree Nodes   | 259 |
+| Objective value  | 1.9635617199e+07 |
+| Model status     | Optimal |
+| Run time [s]     | 181.79 |
+| MIPLIB Reference | [unitcal_7](https://miplib.zib.de/instance_details_unitcal_7.html) |
+
+
+## Model: var-smallemery-m6j6
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [var-smallemery-m6j6](var-smallemery-m6j6.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | -1.4646875000e+02 |
+| Dual bound       | -1.5423916414e+02 |
+| Delta Gap        | 7.7704141400e+00 |
+| Gap [%]          | 5.31e+00 |
+| Solution status  | feasible |
+| LP iterations    | 328952 |
+| B&B Tree Nodes   | 12852 |
+| Objective value  | -1.4646875000e+02 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.03 |
+| MIPLIB Reference | [var-smallemery-m6j6](https://miplib.zib.de/instance_details_var-smallemery-m6j6.html) |
+
+
+## Model: wachplan
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [wachplan](wachplan.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | -8.0000000000e+00 |
+| Dual bound       | -9.0000000000e+00 |
+| Delta Gap        | 1.0000000000e+00 |
+| Gap [%]          | 1.25e+01 |
+| Solution status  | feasible |
+| LP iterations    | 6620460 |
+| B&B Tree Nodes   | 73215 |
+| Objective value  | -8.0000000000e+00 |
+| Model status     | Time limit reached |
+| Run time [s]     | 600.02 |
+| MIPLIB Reference | [wachplan](https://miplib.zib.de/instance_details_wachplan.html) |
 
 
 
