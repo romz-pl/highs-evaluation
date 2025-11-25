@@ -31,6 +31,139 @@ mip_abs_gap = 1e-06
 
 
 
+## Model: 30n20b8
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [30n20b8](30n20b8.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 3.0200000000e+02 |
+| Dual bound       | 3.0200000000e+02 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0% |
+| Solution status  | feasible |
+| LP iterations    | 85523 |
+| B&B Tree Nodes   | 0 |
+| Objective value  | 3.0200000000e+02 |
+| Model status     | Optimal |
+| Run time [s]     | 103.98 |
+| MIPLIB Reference | [30n20b8](https://miplib.zib.de/instance_details_30n20b8.html) |
+
+
+## Model: 50v-10
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [50v-10](50v-10.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 3.3200999951e+03 |
+| Dual bound       | 3.2806687425e+03 |
+| Delta Gap        | 3.9431252600e+01 |
+| Gap [%]          | 1.19% |
+| Solution status  | feasible |
+| LP iterations    | 6319747 |
+| B&B Tree Nodes   | 52051 |
+| Objective value  | 3.3200999951e+03 |
+| Model status     | Time limit reached |
+| Run time [s]     | 1200.02 |
+| MIPLIB Reference | [50v-10](https://miplib.zib.de/instance_details_50v-10.html) |
+
+
+## Model: academictimetablesmall
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [academictimetablesmall](academictimetablesmall.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 7.2000000000e+01 |
+| Dual bound       | 0.0000000000e+00 |
+| Delta Gap        | 7.2000000000e+01 |
+| Gap [%]          | 100% |
+| Solution status  | feasible |
+| LP iterations    | 1721263 |
+| B&B Tree Nodes   | 1403 |
+| Objective value  | 7.2000000000e+01 |
+| Model status     | Time limit reached |
+| Run time [s]     | 1200.08 |
+| MIPLIB Reference | [academictimetablesmall](https://miplib.zib.de/instance_details_academictimetablesmall.html) |
+
+
+## Model: air05
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [air05](air05.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | 2.6374000000e+04 |
+| Dual bound       | 2.6374000000e+04 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0% |
+| Solution status  | feasible |
+| LP iterations    | 135425 |
+| B&B Tree Nodes   | 31 |
+| Objective value  | 2.6374000000e+04 |
+| Model status     | Optimal |
+| Run time [s]     | 32.82 |
+| MIPLIB Reference | [air05](https://miplib.zib.de/instance_details_air05.html) |
+
+
+## Model: app1-1
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [app1-1](app1-1.mps.sol) |
+| Status           | Optimal |
+| Primal bound     | -3.0000000000e+00 |
+| Dual bound       | -3.0000000000e+00 |
+| Delta Gap        | 0.0000000000e+00 |
+| Gap [%]          | 0% |
+| Solution status  | feasible |
+| LP iterations    | 86764 |
+| B&B Tree Nodes   | 4668 |
+| Objective value  | -3.0000000000e+00 |
+| Model status     | Optimal |
+| Run time [s]     | 24.63 |
+| MIPLIB Reference | [app1-1](https://miplib.zib.de/instance_details_app1-1.html) |
+
+
+## Model: app1-2
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [app1-2](app1-2.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | inf |
+| Dual bound       | -4.1000000000e+01 |
+| Delta Gap        | inf |
+| Gap [%]          | inf |
+| Solution status  | - |
+| LP iterations    | 1388595 |
+| B&B Tree Nodes   | 11818 |
+| Objective value  | inf |
+| Model status     | Time limit reached |
+| Run time [s]     | 1200.26 |
+| MIPLIB Reference | [app1-2](https://miplib.zib.de/instance_details_app1-2.html) |
+
+
+## Model: assign1-5-8
+
+| Key              | Value |
+|------------------|-------|
+| Solution         | [assign1-5-8](assign1-5-8.mps.sol) |
+| Status           | Time limit reached |
+| Primal bound     | 2.1200000000e+02 |
+| Dual bound       | 2.0200000000e+02 |
+| Delta Gap        | 1.0000000000e+01 |
+| Gap [%]          | 4.72% |
+| Solution status  | feasible |
+| LP iterations    | 16155437 |
+| B&B Tree Nodes   | 850551 |
+| Objective value  | 2.1200000000e+02 |
+| Model status     | Time limit reached |
+| Run time [s]     | 1200.08 |
+| MIPLIB Reference | [assign1-5-8](https://miplib.zib.de/instance_details_assign1-5-8.html) |
+
+
 
 
 ## CPU info
