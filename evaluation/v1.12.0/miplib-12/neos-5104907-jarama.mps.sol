@@ -31,3 +31,37 @@ Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristi
 Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
 
          0       0         0   0.00%   8               inf                  inf        0      0      0         0    11.8s
+         0       0         0   0.00%   787.4193254     inf                  inf        0      0      4     42886   106.9s
+         0       0         0   0.00%   810.4066834     inf                  inf     2542    429      7     75875   282.5s
+         0       0         0   0.00%   826.5387867     inf                  inf     4015    667      9    105488   450.6s
+         0       0         0   0.00%   837.705359      inf                  inf     5084    824     11    140431   679.3s
+         0       0         0   0.00%   839.7707266     inf                  inf     5893    962     17    172887   923.2s
+         0       0         0   0.00%   841.9535564     inf                  inf     6515   1045    191    195087  1087.9s
+         0       0         0   0.00%   841.9535564     inf                  inf     7378   1115    194    209891  1200.1s
+         0       0         0   0.00%   841.9535564     inf                  inf     7378   1115    194    209891  1200.1s
+
+Solving report
+  Model             neos-5104907-jarama
+  Status            Time limit reached
+  Primal bound      inf
+  Dual bound        841.953556433
+  Gap               inf
+  P-D integral      0
+  Solution status   -
+  Timing            1200.07
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     209891
+                    0 (strong br.)
+                    167005 (separation)
+                    0 (heuristics)
+Model name          : neos-5104907-jarama
+Model status        : Time limit reached
+Simplex   iterations: 209891
+IPM       iterations: -1
+Crossover iterations: -1
+PDLP      iterations: -1
+QP ASM    iterations: -1
+Objective value     :               inf
+HiGHS run time      :       1200.11
