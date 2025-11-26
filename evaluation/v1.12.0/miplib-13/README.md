@@ -27,11 +27,6 @@ mip_rel_gap = 0
 mip_abs_gap = 1e-06
 ```
 
-
-
-
-
-
 ## Model: 30n20b8
 
 | Key              | Value |
