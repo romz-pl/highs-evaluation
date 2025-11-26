@@ -45,5 +45,3 @@ user_bound_scale = from 0  to  -20
 | -19              | WARNING 40004.529874  |  176 033 |     1 789 113 | [mas76-19](./mas76/mas76-19.mps.log) |
 | -20              | WARNING 40004.1417    |  188 405 |     1 974 177 | [mas76-20](./mas76/mas76-20.mps.log) |
 
-
-https://github.com/romz-pl/highs-evaluation/blob/main/evaluation/v1.12.0/
