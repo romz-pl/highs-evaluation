@@ -112,7 +112,7 @@ mip_abs_gap = 1e-06
 | [markshare2](markshare2.mps.sol)                                                | Time limit reached |     |           | [markshare2](https://miplib.zib.de/instance_details_markshare2.html) |
 | [markshare_4_0](markshare_4_0.mps.sol)                                          | 1.0000000000e+00   | Yes | 1          | [markshare_4_0](https://miplib.zib.de/instance_details_markshare_4_0.html) |
 | [mas74](mas74.mps.sol)                                                          | Time limit reached |     |           | [mas74](https://miplib.zib.de/instance_details_mas74.html) |
-| [mas76](mas76.mps.sol)                                                          | Solve error        | **No**  |           | [mas76](https://miplib.zib.de/instance_details_mas76.html) |
+| [mas76](mas76.mps.sol)                                                          | Solve error        | **No**  | 40005.05398999999          | [mas76](https://miplib.zib.de/instance_details_mas76.html) |
 | [mc11](mc11.mps.sol)                                                            | 1.1689000000e+04   | Yes | 11688.99999999966          | [mc11](https://miplib.zib.de/instance_details_mc11.html) |
 | [mcsched](mcsched.mps.sol)                                                      | 2.1191300000e+05   | Yes | 211913          | [mcsched](https://miplib.zib.de/instance_details_mcsched.html) |
 | [mik-250-20-75-4](mik-250-20-75-4.mps.sol)                                      | -5.2301000000e+04  | Yes | -52301          | [mik-250-20-75-4](https://miplib.zib.de/instance_details_mik-250-20-75-4.html) |
