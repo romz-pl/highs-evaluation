@@ -1,0 +1,124 @@
+Running HiGHS 1.12.0 (git hash: n/a): Copyright (c) 2025 HiGHS under MIT licence terms
+Set option solver to "simplex"
+Set option parallel to "off"
+Set option time_limit to 1200
+Set option random_seed to 6
+Set option log_file to "HiGHS.log"
+Set option mip_rel_gap to 0
+MIP mas76 has 12 rows; 151 cols; 1640 nonzeros; 150 integer variables (150 binary)
+Coefficient ranges:
+  Matrix  [1e+00, 1e+04]
+  Cost    [1e-05, 1e+00]
+  Bound   [1e+00, 1e+12]
+  RHS     [2e+01, 2e+05]
+WARNING: Problem has some excessively small costs
+WARNING: Problem has some excessively large column bounds
+WARNING:    Consider scaling the    bounds by 1e-6, or setting the user_bound_scale option to -20
+Presolving model
+12 rows, 150 cols, 1639 nonzeros  0s
+12 rows, 148 cols, 1615 nonzeros  0s
+Presolve reductions: rows 12(-0); columns 148(-3); nonzeros 1615(-25) 
+
+Solving MIP model with:
+   12 rows
+   148 cols (145 binary, 2 integer, 0 implied int., 1 continuous, 0 domain fixed)
+   1615 nonzeros
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+ J       0       0         0   0.00%   -inf            80756.328742       Large        0      0      0         0     0.0s
+ R       0       0         0   0.00%   38893.903641    46007.97793       15.46%        0      0      0        72     0.0s
+ L       0       0         0   0.00%   39042.892016    40005.054142       2.41%     1012     22     20       169     0.3s
+
+53.7% inactive integer columns, restarting
+Model after restart has 12 rows, 69 cols (68 bin., 0 int., 0 impl., 1 cont., 0 dom.fix.), and 676 nonzeros
+
+         0       0         0   0.00%   39043.296431    40005.054142       2.40%       14      0      0      1512     0.5s
+         0       0         0   0.00%   39043.296431    40005.054142       2.40%       14     14      4      1538     0.5s
+
+Restarting search from the root node
+Model after restart has 12 rows, 68 cols (67 bin., 0 int., 0 impl., 1 cont., 0 dom.fix.), and 664 nonzeros
+
+      1113       0         0   0.00%   39075.895375    40005.054142       2.32%       19      0      0     17515     1.8s
+      1113       0         0   0.00%   39075.895375    40005.054142       2.32%       19      3      2     17526     1.8s
+ L    1113       0         0   0.00%   39081.183364    40005.054142       2.31%     1730     35      2     17820     2.2s
+
+Restarting search from the root node
+Model after restart has 12 rows, 68 cols (67 bin., 0 int., 0 impl., 1 cont., 0 dom.fix.), and 664 nonzeros
+
+      5242       0         0   0.00%   39081.183364    40005.054142       2.31%       18      0      0     48721     4.1s
+      5242       0         0   0.00%   39081.183364    40005.054142       2.31%       18      4      2     48737     4.1s
+
+Restarting search from the root node
+Model after restart has 12 rows, 68 cols (67 bin., 0 int., 0 impl., 1 cont., 0 dom.fix.), and 664 nonzeros
+
+      8463       0         0   0.00%   39091.710184    40005.054142       2.28%       15      0      0     74786     6.3s
+      8463       0         0   0.00%   39091.710184    40005.054142       2.28%       15      3      2     74793     6.3s
+     21900     780      6293  25.35%   39149.276235    40005.054142       2.14%     1289     13   9658    161878    11.3s
+     36578    1452     13260  37.29%   39210.754761    40005.054142       1.99%     1354      8   9723    251732    16.3s
+     49085    1885     19272  44.76%   39241.061922    40005.054142       1.91%     1408     14   9738    332768    21.3s
+     61237    2356     25094  48.52%   39266.42918     40005.054142       1.85%     1209     15   9877    410933    26.3s
+     72660    2763     30586  53.37%   39287.869743    40005.054142       1.79%     1535      7   9703    486640    31.3s
+ L   83334    3082     35745  56.81%   39298.256621    40005.054142       1.77%     1271     11   9800    553040    35.2s
+ L   88443    3221     38224  58.07%   39304.207873    40005.054142       1.75%     1441      8   9873    586355    37.1s
+ L   91065    3289     39492  58.93%   39305.474039    40005.054142       1.75%     1351     12   9896    603045    38.3s
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+    103685    3606     45617  63.08%   39320.841213    40005.054142       1.71%     1476     14   9651    686552    43.3s
+ L  110128    3735     48764  64.56%   39328.703713    40005.054142       1.69%     1471     17   9889    727281    46.2s
+    123108    3946     55123  68.03%   39336.186817    40005.054142       1.67%     1283     13   9791    812571    51.2s
+    134824    4133     60875  70.90%   39361.020191    40005.054142       1.61%     1317     15   9890    887890    56.2s
+    146189    4319     66442  72.87%   39367.964359    40005.054142       1.59%     1459     14   9819    961185    61.2s
+    157179    4479     71835  75.72%   39377.844587    40005.054142       1.57%     1358      8   9941     1032k    66.2s
+    169145    4606     77733  78.13%   39388.601124    40005.054142       1.54%     1249     20   9930     1111k    71.2s
+    179339    4684     82775  81.09%   39397.874137    40005.054142       1.52%     1361      7   9843     1179k    76.2s
+ L  189217    4759     87661  82.56%   39409.036443    40005.054142       1.49%     1405     18   9999     1242k    80.8s
+    202860    4843     94414  84.93%   39423.624284    40005.054142       1.45%     1198     13   9948     1330k    85.8s
+    215332    4867    100613  87.77%   39441.495065    40005.054142       1.41%     1398      3   9841     1409k    90.8s
+    226255    4811    106081  89.60%   39457.595675    40005.054142       1.37%     1328     10   9971     1480k    95.8s
+    238252    4769    112076  91.46%   39478.166028    40005.054142       1.32%     1360      8   9912     1557k   100.8s
+    248727    4589    117387  92.97%   39504.345364    40005.054142       1.25%     1282     11   9995     1628k   105.8s
+    260309    4327    123298  94.47%   39537.480014    40005.054142       1.17%     1233     17   9643     1706k   110.8s
+    270559    3957    128593  96.13%   39570.655901    40005.054142       1.09%     1291      9   8458     1780k   115.8s
+    279908    3330    133569  97.32%   39639.513931    40005.054142       0.91%     1170     12   6525     1849k   120.8s
+    285919    2400    137033  98.48%   39719.971045    40005.054142       0.71%     1201     13   2139     1904k   125.8s
+    290175     641    140037  99.59%   39851.558647    40005.054142       0.38%     1267      3   1143     1956k   130.8s
+    290945       0    140742 100.00%   40005.054142    40005.054142       0.00%     1190      6    997     1966k   131.5s
+
+Solving report
+  Model             mas76
+  Status            Optimal
+  Primal bound      40005.0541419
+  Dual bound        40005.0541419
+  Gap               0%
+  P-D integral      2.07219465265
+  Solution status   feasible
+                    40005.0541419 (objective)
+                    0 (bound viol.)
+                    1.29527499837e-11 (int. viol.)
+                    0 (row viol.)
+  Timing            131.51
+  Max sub-MIP depth 5
+  Nodes             290945
+  Repair LPs        0
+  LP iterations     1966123
+                    8635 (strong br.)
+                    101833 (separation)
+                    98508 (heuristics)
+Model name          : mas76
+Model status        : Optimal
+Simplex   iterations: 1966123
+IPM       iterations: -1
+Crossover iterations: -1
+PDLP      iterations: -1
+QP ASM    iterations: -1
+Objective value     :  4.0005054142e+04
+HiGHS run time      :        131.51
