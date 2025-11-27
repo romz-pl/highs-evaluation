@@ -87,3 +87,39 @@ Model after restart has 10530 rows, 8903 cols (8271 bin., 520 int., 112 impl., 0
 Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
 
          0       0         0   0.00%   -14481.361109   inf                  inf     2378    495    698     1925k   726.8s
+         3       0         1  25.00%   -14481.361109   inf                  inf     2381    495    724     2601k   964.6s
+        64       0         2  25.00%   -14481.361109   inf                  inf     2383    495    735     2739k  1012.3s
+        89       0         4  25.00%   -14481.361109   inf                  inf     2385    495    744     2798k  1030.6s
+       110      79         5  25.78%   -14312.160606   inf                  inf     2386    495    759     2850k  1044.6s
+       116      78         6  27.34%   -14312.160606   inf                  inf     2805    641    761     2929k  1074.7s
+       138      78         8  27.73%   -14312.160606   inf                  inf     2806    641    776     3069k  1123.5s
+       165      79         9  27.73%   -14312.160606   inf                  inf     2807    641    792     3227k  1171.8s
+       192      80        11  27.73%   -14312.160606   inf                  inf     2808    641    808     3276k  1188.0s
+       214     167        13  27.73%   -14271.1872     inf                  inf     2810    641    831     3320k  1199.3s
+       215     167        14  27.73%   -14271.1872     inf                  inf     2810    641    831     3322k  1200.0s
+
+Solving report
+  Model             neos-3656078-kumeu
+  Status            Time limit reached
+  Primal bound      inf
+  Dual bound        -14271.1
+  Gap               inf
+  P-D integral      0
+  Solution status   -
+  Timing            1200.01
+  Max sub-MIP depth 1
+  Nodes             215
+  Repair LPs        0
+  LP iterations     3322200
+                    872045 (strong br.)
+                    652190 (separation)
+                    948829 (heuristics)
+Model name          : neos-3656078-kumeu
+Model status        : Time limit reached
+Simplex   iterations: 3322200
+IPM       iterations: -1
+Crossover iterations: -1
+PDLP      iterations: -1
+QP ASM    iterations: -1
+Objective value     :               inf
+HiGHS run time      :       1200.02
